@@ -1,3 +1,61 @@
 {
- "calls": {}
+ "calls": {
+  "2026-10-01": 1
+ },
+ "last_poll": "2026-10-01T00:21:43Z",
+ "remaining": 499,
+ "alerted": {},
+ "snap": {
+  "d55cb69fed50a09170560b5b75d8de86": {
+   "draftkings": {
+    "h2h": {
+     "Cleveland Browns": 2.24,
+     "Pittsburgh Steelers": 1.68
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Cleveland Browns": 2.26,
+     "Pittsburgh Steelers": 1.68
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Cleveland Browns": 2.3,
+     "Pittsburgh Steelers": 1.67
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Cleveland Browns": 2.23,
+     "Pittsburgh Steelers": 1.68
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Cleveland Browns": 2.3,
+     "Pittsburgh Steelers": 1.67
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Cleveland Browns": 2.25,
+     "Pittsburgh Steelers": 1.69
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Cleveland Browns": 2.3,
+     "Pittsburgh Steelers": 1.67
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Cleveland Browns": 2.33,
+     "Pittsburgh Steelers": 1.66
+    }
+   }
+  }
+ },
+ "snap_ts": "2026-10-01T00:21:43Z"
 }
