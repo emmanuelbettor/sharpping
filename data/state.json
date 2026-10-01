@@ -1,9 +1,9 @@
 {
  "calls": {
-  "2026-10-01": 12
+  "2026-10-01": 13
  },
- "last_poll": "2026-10-01T11:00:49Z",
- "remaining": 488,
+ "last_poll": "2026-10-01T11:57:21Z",
+ "remaining": 487,
  "alerted": {},
  "snap": {
   "d55cb69fed50a09170560b5b75d8de86": {
@@ -21,8 +21,8 @@
    },
    "betonlineag": {
     "h2h": {
-     "Cleveland Browns": 2.32,
-     "Pittsburgh Steelers": 1.66
+     "Cleveland Browns": 2.33,
+     "Pittsburgh Steelers": 1.65
     }
    },
    "betrivers": {
@@ -33,8 +33,8 @@
    },
    "bovada": {
     "h2h": {
-     "Cleveland Browns": 2.35,
-     "Pittsburgh Steelers": 1.62
+     "Cleveland Browns": 2.25,
+     "Pittsburgh Steelers": 1.69
     }
    },
    "betmgm": {
@@ -51,11 +51,11 @@
    },
    "pinnacle": {
     "h2h": {
-     "Cleveland Browns": 2.35,
-     "Pittsburgh Steelers": 1.66
+     "Cleveland Browns": 2.31,
+     "Pittsburgh Steelers": 1.68
     }
    }
   }
  },
- "snap_ts": "2026-10-01T11:00:49Z"
+ "snap_ts": "2026-10-01T11:57:21Z"
 }
