@@ -1,9 +1,9 @@
 {
  "calls": {
-  "2026-10-01": 3
+  "2026-10-01": 4
  },
- "last_poll": "2026-10-01T02:15:15Z",
- "remaining": 497,
+ "last_poll": "2026-10-01T03:22:04Z",
+ "remaining": 496,
  "alerted": {},
  "snap": {
   "d55cb69fed50a09170560b5b75d8de86": {
@@ -40,7 +40,7 @@
    "betmgm": {
     "h2h": {
      "Cleveland Browns": 2.25,
-     "Pittsburgh Steelers": 1.69
+     "Pittsburgh Steelers": 1.67
     }
    },
    "hardrockbet": {
@@ -57,5 +57,5 @@
    }
   }
  },
- "snap_ts": "2026-10-01T02:15:15Z"
+ "snap_ts": "2026-10-01T03:22:04Z"
 }
