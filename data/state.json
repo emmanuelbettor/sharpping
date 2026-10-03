@@ -1,61 +1,62 @@
 {
  "calls": {
-  "2026-10-01": 14
+  "2026-10-01": 14,
+  "2026-10-03": 1
  },
- "last_poll": "2026-10-01T12:50:30Z",
- "remaining": 486,
+ "last_poll": "2026-10-03T14:46:38Z",
+ "remaining": 485,
  "alerted": {},
  "snap": {
-  "d55cb69fed50a09170560b5b75d8de86": {
+  "c9d8ed8aa4889486eaf10a630138ede0": {
    "draftkings": {
     "h2h": {
-     "Cleveland Browns": 2.24,
-     "Pittsburgh Steelers": 1.68
+     "Indianapolis Colts": 1.49,
+     "Washington Commanders": 2.7
     }
    },
    "fanduel": {
     "h2h": {
-     "Cleveland Browns": 2.22,
-     "Pittsburgh Steelers": 1.69
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Cleveland Browns": 2.33,
-     "Pittsburgh Steelers": 1.65
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Cleveland Browns": 2.23,
-     "Pittsburgh Steelers": 1.68
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Cleveland Browns": 2.25,
-     "Pittsburgh Steelers": 1.69
+     "Indianapolis Colts": 1.47,
+     "Washington Commanders": 2.8
     }
    },
    "betmgm": {
     "h2h": {
-     "Cleveland Browns": 2.25,
-     "Pittsburgh Steelers": 1.67
+     "Indianapolis Colts": 1.48,
+     "Washington Commanders": 2.75
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Indianapolis Colts": 1.48,
+     "Washington Commanders": 2.75
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Indianapolis Colts": 1.51,
+     "Washington Commanders": 2.71
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Indianapolis Colts": 1.47,
+     "Washington Commanders": 2.75
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Cleveland Browns": 2.3,
-     "Pittsburgh Steelers": 1.67
+     "Indianapolis Colts": 1.45,
+     "Washington Commanders": 2.8
     }
    },
    "pinnacle": {
     "h2h": {
-     "Cleveland Browns": 2.32,
-     "Pittsburgh Steelers": 1.68
+     "Indianapolis Colts": 1.5,
+     "Washington Commanders": 2.76
     }
    }
   }
  },
- "snap_ts": "2026-10-01T12:50:30Z"
+ "snap_ts": "2026-10-03T14:46:38Z"
 }
