@@ -2,17 +2,17 @@
  "calls": {
   "2026-10-01": 14,
   "2026-10-03": 2,
-  "2026-10-04": 7
+  "2026-10-04": 8
  },
- "last_poll": "2026-10-04T22:56:26Z",
- "remaining": 477,
+ "last_poll": "2026-10-04T23:54:36Z",
+ "remaining": 476,
  "alerted": {},
  "snap": {
   "a73a76599a4f3422803e57bd8f61b626": {
    "draftkings": {
     "h2h": {
-     "Carolina Panthers": 2.64,
-     "Detroit Lions": 1.51
+     "Carolina Panthers": 2.85,
+     "Detroit Lions": 1.44
     }
    },
    "fanduel": {
@@ -23,20 +23,20 @@
    },
    "betonlineag": {
     "h2h": {
-     "Carolina Panthers": 2.78,
-     "Detroit Lions": 1.48
+     "Carolina Panthers": 2.89,
+     "Detroit Lions": 1.44
     }
    },
    "betrivers": {
     "h2h": {
-     "Carolina Panthers": 2.75,
-     "Detroit Lions": 1.47
+     "Carolina Panthers": 2.8,
+     "Detroit Lions": 1.44
     }
    },
    "bovada": {
     "h2h": {
-     "Carolina Panthers": 2.75,
-     "Detroit Lions": 1.48
+     "Carolina Panthers": 2.8,
+     "Detroit Lions": 1.45
     }
    },
    "betmgm": {
@@ -47,17 +47,17 @@
    },
    "pinnacle": {
     "h2h": {
-     "Carolina Panthers": 2.81,
-     "Detroit Lions": 1.49
+     "Carolina Panthers": 2.89,
+     "Detroit Lions": 1.47
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Carolina Panthers": 2.8,
-     "Detroit Lions": 1.48
+     "Carolina Panthers": 2.85,
+     "Detroit Lions": 1.45
     }
    }
   }
  },
- "snap_ts": "2026-10-04T22:56:26Z"
+ "snap_ts": "2026-10-04T23:54:36Z"
 }
