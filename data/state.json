@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-01": 14,
   "2026-10-03": 2,
-  "2026-10-04": 1
+  "2026-10-04": 2
  },
- "last_poll": "2026-10-04T02:29:50Z",
- "remaining": 483,
+ "last_poll": "2026-10-04T04:27:04Z",
+ "remaining": 482,
  "alerted": {},
  "snap": {
   "c9d8ed8aa4889486eaf10a630138ede0": {
@@ -298,7 +298,7 @@
    "pinnacle": {
     "h2h": {
      "Cincinnati Bengals": 1.68,
-     "Jacksonville Jaguars": 2.3
+     "Jacksonville Jaguars": 2.29
     }
    },
    "bovada": {
@@ -311,8 +311,8 @@
   "daf55e2df5341c007fee5a0fc5bbc2d4": {
    "draftkings": {
     "h2h": {
-     "Dallas Cowboys": 2.3,
-     "Houston Texans": 1.65
+     "Dallas Cowboys": 2.24,
+     "Houston Texans": 1.68
     }
    },
    "fanduel": {
@@ -367,8 +367,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Green Bay Packers": 1.58,
-     "Tampa Bay Buccaneers": 2.44
+     "Green Bay Packers": 1.6,
+     "Tampa Bay Buccaneers": 2.42
     }
    },
    "betonlineag": {
@@ -392,7 +392,7 @@
    "hardrockbet": {
     "h2h": {
      "Green Bay Packers": 1.59,
-     "Tampa Bay Buccaneers": 2.5
+     "Tampa Bay Buccaneers": 2.45
     }
    },
    "betmgm": {
@@ -517,8 +517,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Denver Broncos": 2.2,
-     "San Francisco 49ers": 1.7
+     "Denver Broncos": 2.26,
+     "San Francisco 49ers": 1.68
     }
    },
    "betonlineag": {
@@ -709,5 +709,5 @@
    }
   }
  },
- "snap_ts": "2026-10-04T02:29:50Z"
+ "snap_ts": "2026-10-04T04:27:04Z"
 }
