@@ -1,63 +1,57 @@
 {
  "calls": {
-  "2026-10-01": 14,
   "2026-10-03": 2,
-  "2026-10-04": 8
+  "2026-10-04": 8,
+  "2026-10-05": 1
  },
- "last_poll": "2026-10-04T23:54:36Z",
- "remaining": 476,
+ "last_poll": "2026-10-05T00:52:11Z",
+ "remaining": 475,
  "alerted": {},
  "snap": {
-  "a73a76599a4f3422803e57bd8f61b626": {
+  "8bd90781e17e6d97df3941063cedae1e": {
    "draftkings": {
     "h2h": {
-     "Carolina Panthers": 2.85,
-     "Detroit Lions": 1.44
+     "Atlanta Falcons": 2.1,
+     "New Orleans Saints": 1.77
     }
    },
    "fanduel": {
     "h2h": {
-     "Carolina Panthers": 2.76,
-     "Detroit Lions": 1.48
+     "Atlanta Falcons": 2.08,
+     "New Orleans Saints": 1.79
     }
    },
    "betonlineag": {
     "h2h": {
-     "Carolina Panthers": 2.89,
-     "Detroit Lions": 1.44
+     "Atlanta Falcons": 2.03,
+     "New Orleans Saints": 1.81
     }
    },
    "betrivers": {
     "h2h": {
-     "Carolina Panthers": 2.8,
-     "Detroit Lions": 1.44
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Carolina Panthers": 2.8,
-     "Detroit Lions": 1.45
+     "Atlanta Falcons": 2.1,
+     "New Orleans Saints": 1.74
     }
    },
    "betmgm": {
     "h2h": {
-     "Carolina Panthers": 2.8,
-     "Detroit Lions": 1.45
+     "Atlanta Falcons": 2.1,
+     "New Orleans Saints": 1.77
     }
    },
    "pinnacle": {
     "h2h": {
-     "Carolina Panthers": 2.89,
-     "Detroit Lions": 1.47
+     "Atlanta Falcons": 2.09,
+     "New Orleans Saints": 1.81
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Carolina Panthers": 2.85,
-     "Detroit Lions": 1.45
+     "Atlanta Falcons": 2.1,
+     "New Orleans Saints": 1.77
     }
    }
   }
  },
- "snap_ts": "2026-10-04T23:54:36Z"
+ "snap_ts": "2026-10-05T00:52:11Z"
 }
