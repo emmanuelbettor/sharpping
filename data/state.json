@@ -2,23 +2,23 @@
  "calls": {
   "2026-10-03": 2,
   "2026-10-04": 8,
-  "2026-10-05": 13
+  "2026-10-05": 14
  },
- "last_poll": "2026-10-05T12:26:30Z",
- "remaining": 463,
+ "last_poll": "2026-10-05T13:19:23Z",
+ "remaining": 462,
  "alerted": {},
  "snap": {
   "8bd90781e17e6d97df3941063cedae1e": {
    "draftkings": {
     "h2h": {
-     "Atlanta Falcons": 2.02,
-     "New Orleans Saints": 1.82
+     "Atlanta Falcons": 2.0,
+     "New Orleans Saints": 1.83
     }
    },
    "fanduel": {
     "h2h": {
-     "Atlanta Falcons": 2.1,
-     "New Orleans Saints": 1.77
+     "Atlanta Falcons": 2.04,
+     "New Orleans Saints": 1.82
     }
    },
    "betonlineag": {
@@ -35,7 +35,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Atlanta Falcons": 2.05,
+     "Atlanta Falcons": 2.0,
      "New Orleans Saints": 1.83
     }
    },
@@ -43,12 +43,6 @@
     "h2h": {
      "Atlanta Falcons": 2.05,
      "New Orleans Saints": 1.87
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Atlanta Falcons": 2.0,
-     "New Orleans Saints": 1.83
     }
    },
    "hardrockbet": {
@@ -59,5 +53,5 @@
    }
   }
  },
- "snap_ts": "2026-10-05T12:26:30Z"
+ "snap_ts": "2026-10-05T13:19:23Z"
 }
