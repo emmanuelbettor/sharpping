@@ -1,10 +1,10 @@
 {
  "calls": {
   "2026-10-05": 14,
-  "2026-10-08": 10
+  "2026-10-08": 11
  },
- "last_poll": "2026-10-08T09:15:40Z",
- "remaining": 452,
+ "last_poll": "2026-10-08T10:15:57Z",
+ "remaining": 451,
  "alerted": {},
  "snap": {
   "259b5df9aa0d10257f56de78523495e0": {
@@ -17,7 +17,7 @@
    "fanduel": {
     "h2h": {
      "Dallas Cowboys": 1.22,
-     "Tampa Bay Buccaneers": 4.5
+     "Tampa Bay Buccaneers": 4.6
     }
    },
    "betonlineag": {
@@ -41,7 +41,7 @@
    "pinnacle": {
     "h2h": {
      "Dallas Cowboys": 1.22,
-     "Tampa Bay Buccaneers": 4.54
+     "Tampa Bay Buccaneers": 4.55
     }
    },
    "hardrockbet": {
@@ -58,5 +58,5 @@
    }
   }
  },
- "snap_ts": "2026-10-08T09:15:40Z"
+ "snap_ts": "2026-10-08T10:15:57Z"
 }
