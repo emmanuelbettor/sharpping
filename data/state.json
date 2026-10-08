@@ -1,56 +1,62 @@
 {
  "calls": {
-  "2026-10-04": 8,
-  "2026-10-05": 14
+  "2026-10-05": 14,
+  "2026-10-08": 1
  },
- "last_poll": "2026-10-05T13:19:23Z",
- "remaining": 462,
+ "last_poll": "2026-10-08T00:20:18Z",
+ "remaining": 461,
  "alerted": {},
  "snap": {
-  "8bd90781e17e6d97df3941063cedae1e": {
+  "259b5df9aa0d10257f56de78523495e0": {
    "draftkings": {
     "h2h": {
-     "Atlanta Falcons": 2.0,
-     "New Orleans Saints": 1.83
+     "Dallas Cowboys": 1.21,
+     "Tampa Bay Buccaneers": 4.6
     }
    },
    "fanduel": {
     "h2h": {
-     "Atlanta Falcons": 2.04,
-     "New Orleans Saints": 1.82
+     "Dallas Cowboys": 1.21,
+     "Tampa Bay Buccaneers": 4.7
     }
    },
    "betonlineag": {
     "h2h": {
-     "Atlanta Falcons": 1.96,
-     "New Orleans Saints": 1.86
+     "Dallas Cowboys": 1.23,
+     "Tampa Bay Buccaneers": 4.44
     }
    },
    "betrivers": {
     "h2h": {
-     "Atlanta Falcons": 2.07,
-     "New Orleans Saints": 1.77
+     "Dallas Cowboys": 1.2,
+     "Tampa Bay Buccaneers": 4.8
     }
    },
    "betmgm": {
     "h2h": {
-     "Atlanta Falcons": 2.0,
-     "New Orleans Saints": 1.83
+     "Dallas Cowboys": 1.22,
+     "Tampa Bay Buccaneers": 4.5
     }
    },
    "pinnacle": {
     "h2h": {
-     "Atlanta Falcons": 2.05,
-     "New Orleans Saints": 1.87
+     "Dallas Cowboys": 1.22,
+     "Tampa Bay Buccaneers": 4.54
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Atlanta Falcons": 2.05,
-     "New Orleans Saints": 1.8
+     "Dallas Cowboys": 1.21,
+     "Tampa Bay Buccaneers": 4.5
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Dallas Cowboys": 1.21,
+     "Tampa Bay Buccaneers": 4.45
     }
    }
   }
  },
- "snap_ts": "2026-10-05T13:19:23Z"
+ "snap_ts": "2026-10-08T00:20:18Z"
 }
