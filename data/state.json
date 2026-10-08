@@ -1,10 +1,10 @@
 {
  "calls": {
   "2026-10-05": 14,
-  "2026-10-08": 4
+  "2026-10-08": 5
  },
- "last_poll": "2026-10-08T03:17:18Z",
- "remaining": 458,
+ "last_poll": "2026-10-08T04:14:39Z",
+ "remaining": 457,
  "alerted": {},
  "snap": {
   "259b5df9aa0d10257f56de78523495e0": {
@@ -34,7 +34,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Dallas Cowboys": 1.21,
+     "Dallas Cowboys": 1.22,
      "Tampa Bay Buccaneers": 4.6
     }
    },
@@ -58,5 +58,5 @@
    }
   }
  },
- "snap_ts": "2026-10-08T03:17:18Z"
+ "snap_ts": "2026-10-08T04:14:39Z"
 }
