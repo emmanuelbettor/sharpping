@@ -1,10 +1,10 @@
 {
  "calls": {
   "2026-10-08": 14,
-  "2026-10-10": 8
+  "2026-10-10": 9
  },
- "last_poll": "2026-10-10T20:33:41Z",
- "remaining": 440,
+ "last_poll": "2026-10-10T21:32:45Z",
+ "remaining": 439,
  "alerted": {},
  "snap": {
   "21b26266f3d78af02eb672e606275d95": {
@@ -60,8 +60,8 @@
   "2caea57b1e5cfbba1334cfbfd46f6771": {
    "draftkings": {
     "h2h": {
-     "Chicago Bears": 1.8,
-     "Green Bay Packers": 2.05
+     "Chicago Bears": 1.77,
+     "Green Bay Packers": 2.1
     }
    },
    "fanduel": {
@@ -110,8 +110,8 @@
   "c4647ca1201e6768501877267ca8251b": {
    "draftkings": {
     "h2h": {
-     "Cincinnati Bengals": 1.28,
-     "Miami Dolphins": 3.8
+     "Cincinnati Bengals": 1.29,
+     "Miami Dolphins": 3.75
     }
    },
    "fanduel": {
@@ -134,8 +134,8 @@
    },
    "betmgm": {
     "h2h": {
-     "Cincinnati Bengals": 1.29,
-     "Miami Dolphins": 3.75
+     "Cincinnati Bengals": 1.31,
+     "Miami Dolphins": 3.7
     }
    },
    "hardrockbet": {
@@ -284,8 +284,8 @@
    },
    "betmgm": {
     "h2h": {
-     "Indianapolis Colts": 2.2,
-     "Pittsburgh Steelers": 1.69
+     "Indianapolis Colts": 2.25,
+     "Pittsburgh Steelers": 1.67
     }
    },
    "hardrockbet": {
@@ -360,8 +360,8 @@
   "2cda9bf0fbe35a2735f0dd8aaafe9eff": {
    "draftkings": {
     "h2h": {
-     "Minnesota Vikings": 1.7,
-     "New Orleans Saints": 2.2
+     "Minnesota Vikings": 1.74,
+     "New Orleans Saints": 2.14
     }
    },
    "fanduel": {
@@ -384,7 +384,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Minnesota Vikings": 1.71,
+     "Minnesota Vikings": 1.74,
      "New Orleans Saints": 2.15
     }
    },
@@ -410,8 +410,8 @@
   "fbffd0b7722fd81d68d5d62472dc80e8": {
    "draftkings": {
     "h2h": {
-     "New York Giants": 2.54,
-     "Washington Commanders": 1.54
+     "New York Giants": 2.5,
+     "Washington Commanders": 1.56
     }
    },
    "fanduel": {
@@ -510,8 +510,8 @@
   "f8e7f43f73aa983c5c99c189587f0118": {
    "draftkings": {
     "h2h": {
-     "Arizona Cardinals": 3.05,
-     "Detroit Lions": 1.4
+     "Arizona Cardinals": 3.1,
+     "Detroit Lions": 1.39
     }
    },
    "fanduel": {
@@ -535,7 +535,7 @@
    "betmgm": {
     "h2h": {
      "Arizona Cardinals": 3.0,
-     "Detroit Lions": 1.43
+     "Detroit Lions": 1.4
     }
    },
    "hardrockbet": {
@@ -608,5 +608,5 @@
    }
   }
  },
- "snap_ts": "2026-10-10T20:33:41Z"
+ "snap_ts": "2026-10-10T21:32:45Z"
 }
