@@ -1,61 +1,62 @@
 {
  "calls": {
-  "2026-10-08": 14
+  "2026-10-08": 14,
+  "2026-10-10": 1
  },
- "last_poll": "2026-10-08T13:18:40Z",
- "remaining": 448,
+ "last_poll": "2026-10-10T13:33:25Z",
+ "remaining": 447,
  "alerted": {},
  "snap": {
-  "259b5df9aa0d10257f56de78523495e0": {
+  "21b26266f3d78af02eb672e606275d95": {
    "draftkings": {
     "h2h": {
-     "Dallas Cowboys": 1.21,
-     "Tampa Bay Buccaneers": 4.6
+     "Jacksonville Jaguars": 1.25,
+     "Philadelphia Eagles": 4.1
     }
    },
    "fanduel": {
     "h2h": {
-     "Dallas Cowboys": 1.22,
-     "Tampa Bay Buccaneers": 4.5
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Dallas Cowboys": 1.22,
-     "Tampa Bay Buccaneers": 4.58
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Dallas Cowboys": 1.2,
-     "Tampa Bay Buccaneers": 4.8
+     "Jacksonville Jaguars": 1.25,
+     "Philadelphia Eagles": 4.15
     }
    },
    "betmgm": {
     "h2h": {
-     "Dallas Cowboys": 1.21,
-     "Tampa Bay Buccaneers": 4.75
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Dallas Cowboys": 1.23,
-     "Tampa Bay Buccaneers": 4.55
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Dallas Cowboys": 1.21,
-     "Tampa Bay Buccaneers": 4.5
+     "Jacksonville Jaguars": 1.27,
+     "Philadelphia Eagles": 4.1
     }
    },
    "bovada": {
     "h2h": {
-     "Dallas Cowboys": 1.22,
-     "Tampa Bay Buccaneers": 4.4
+     "Jacksonville Jaguars": 1.26,
+     "Philadelphia Eagles": 3.95
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Jacksonville Jaguars": 1.27,
+     "Philadelphia Eagles": 3.96
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Jacksonville Jaguars": 1.25,
+     "Philadelphia Eagles": 4.0
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Jacksonville Jaguars": 1.25,
+     "Philadelphia Eagles": 4.0
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Jacksonville Jaguars": 1.27,
+     "Philadelphia Eagles": 4.04
     }
    }
   }
  },
- "snap_ts": "2026-10-08T13:18:40Z"
+ "snap_ts": "2026-10-10T13:33:25Z"
 }
