@@ -1,17 +1,17 @@
 {
  "calls": {
   "2026-10-08": 14,
-  "2026-10-10": 9
+  "2026-10-10": 10
  },
- "last_poll": "2026-10-10T21:32:45Z",
- "remaining": 439,
+ "last_poll": "2026-10-10T22:32:37Z",
+ "remaining": 438,
  "alerted": {},
  "snap": {
   "21b26266f3d78af02eb672e606275d95": {
    "draftkings": {
     "h2h": {
-     "Jacksonville Jaguars": 1.24,
-     "Philadelphia Eagles": 4.2
+     "Jacksonville Jaguars": 1.26,
+     "Philadelphia Eagles": 4.0
     }
    },
    "fanduel": {
@@ -23,7 +23,7 @@
    "betmgm": {
     "h2h": {
      "Jacksonville Jaguars": 1.27,
-     "Philadelphia Eagles": 4.1
+     "Philadelphia Eagles": 4.0
     }
    },
    "bovada": {
@@ -316,8 +316,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Las Vegas Raiders": 2.64,
-     "New England Patriots": 1.51
+     "Las Vegas Raiders": 2.62,
+     "New England Patriots": 1.52
     }
    },
    "betonlineag": {
@@ -360,8 +360,8 @@
   "2cda9bf0fbe35a2735f0dd8aaafe9eff": {
    "draftkings": {
     "h2h": {
-     "Minnesota Vikings": 1.74,
-     "New Orleans Saints": 2.14
+     "Minnesota Vikings": 1.77,
+     "New Orleans Saints": 2.1
     }
    },
    "fanduel": {
@@ -384,7 +384,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Minnesota Vikings": 1.74,
+     "Minnesota Vikings": 1.71,
      "New Orleans Saints": 2.15
     }
    },
@@ -410,8 +410,8 @@
   "fbffd0b7722fd81d68d5d62472dc80e8": {
    "draftkings": {
     "h2h": {
-     "New York Giants": 2.5,
-     "Washington Commanders": 1.56
+     "New York Giants": 2.42,
+     "Washington Commanders": 1.59
     }
    },
    "fanduel": {
@@ -608,5 +608,5 @@
    }
   }
  },
- "snap_ts": "2026-10-10T21:32:45Z"
+ "snap_ts": "2026-10-10T22:32:37Z"
 }
