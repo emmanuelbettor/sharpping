@@ -1,10 +1,10 @@
 {
  "calls": {
   "2026-10-08": 14,
-  "2026-10-10": 2
+  "2026-10-10": 3
  },
- "last_poll": "2026-10-10T14:31:47Z",
- "remaining": 446,
+ "last_poll": "2026-10-10T15:32:47Z",
+ "remaining": 445,
  "alerted": {},
  "snap": {
   "21b26266f3d78af02eb672e606275d95": {
@@ -24,6 +24,12 @@
     "h2h": {
      "Jacksonville Jaguars": 1.27,
      "Philadelphia Eagles": 4.1
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Jacksonville Jaguars": 1.26,
+     "Philadelphia Eagles": 3.95
     }
    },
    "betonlineag": {
@@ -52,5 +58,5 @@
    }
   }
  },
- "snap_ts": "2026-10-10T14:31:47Z"
+ "snap_ts": "2026-10-10T15:32:47Z"
 }
