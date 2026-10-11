@@ -2,17 +2,17 @@
  "calls": {
   "2026-10-08": 14,
   "2026-10-10": 11,
-  "2026-10-11": 4
+  "2026-10-11": 5
  },
- "last_poll": "2026-10-11T03:14:04Z",
- "remaining": 433,
+ "last_poll": "2026-10-11T04:19:47Z",
+ "remaining": 432,
  "alerted": {},
  "snap": {
   "21b26266f3d78af02eb672e606275d95": {
    "draftkings": {
     "h2h": {
-     "Jacksonville Jaguars": 1.25,
-     "Philadelphia Eagles": 4.1
+     "Jacksonville Jaguars": 1.24,
+     "Philadelphia Eagles": 4.2
     }
    },
    "fanduel": {
@@ -23,20 +23,20 @@
    },
    "betmgm": {
     "h2h": {
-     "Jacksonville Jaguars": 1.27,
-     "Philadelphia Eagles": 4.0
+     "Jacksonville Jaguars": 1.25,
+     "Philadelphia Eagles": 4.2
     }
    },
    "bovada": {
     "h2h": {
-     "Jacksonville Jaguars": 1.26,
-     "Philadelphia Eagles": 3.95
+     "Jacksonville Jaguars": 1.25,
+     "Philadelphia Eagles": 4.0
     }
    },
    "betonlineag": {
     "h2h": {
-     "Jacksonville Jaguars": 1.27,
-     "Philadelphia Eagles": 3.99
+     "Jacksonville Jaguars": 1.26,
+     "Philadelphia Eagles": 4.1
     }
    },
    "betrivers": {
@@ -53,8 +53,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Jacksonville Jaguars": 1.27,
-     "Philadelphia Eagles": 4.05
+     "Jacksonville Jaguars": 1.26,
+     "Philadelphia Eagles": 4.1
     }
    }
   },
@@ -86,7 +86,7 @@
    "betmgm": {
     "h2h": {
      "Chicago Bears": 1.83,
-     "Green Bay Packers": 2.05
+     "Green Bay Packers": 2.0
     }
    },
    "hardrockbet": {
@@ -230,7 +230,7 @@
    "betrivers": {
     "h2h": {
      "Houston Texans": 1.27,
-     "Tennessee Titans": 3.85
+     "Tennessee Titans": 3.9
     }
    },
    "betmgm": {
@@ -241,7 +241,7 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Houston Texans": 1.27,
+     "Houston Texans": 1.25,
      "Tennessee Titans": 4.0
     }
    },
@@ -659,5 +659,5 @@
    }
   }
  },
- "snap_ts": "2026-10-11T03:14:04Z"
+ "snap_ts": "2026-10-11T04:19:47Z"
 }
