@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-08": 14,
   "2026-10-10": 11,
-  "2026-10-11": 9
+  "2026-10-11": 10
  },
- "last_poll": "2026-10-11T08:17:26Z",
- "remaining": 428,
+ "last_poll": "2026-10-11T09:13:50Z",
+ "remaining": 427,
  "alerted": {},
  "snap": {
   "21b26266f3d78af02eb672e606275d95": {
@@ -29,8 +29,8 @@
    },
    "bovada": {
     "h2h": {
-     "Jacksonville Jaguars": 1.25,
-     "Philadelphia Eagles": 4.0
+     "Jacksonville Jaguars": 1.24,
+     "Philadelphia Eagles": 4.05
     }
    },
    "betonlineag": {
@@ -53,8 +53,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Jacksonville Jaguars": 1.26,
-     "Philadelphia Eagles": 4.1
+     "Jacksonville Jaguars": 1.27,
+     "Philadelphia Eagles": 4.06
     }
    }
   },
@@ -111,8 +111,8 @@
   "c4647ca1201e6768501877267ca8251b": {
    "draftkings": {
     "h2h": {
-     "Cincinnati Bengals": 1.29,
-     "Miami Dolphins": 3.75
+     "Cincinnati Bengals": 1.28,
+     "Miami Dolphins": 3.8
     }
    },
    "fanduel": {
@@ -241,7 +241,7 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Houston Texans": 1.25,
+     "Houston Texans": 1.29,
      "Tennessee Titans": 4.0
     }
    },
@@ -297,8 +297,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Indianapolis Colts": 2.33,
-     "Pittsburgh Steelers": 1.66
+     "Indianapolis Colts": 2.31,
+     "Pittsburgh Steelers": 1.68
     }
    },
    "bovada": {
@@ -391,8 +391,8 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Minnesota Vikings": 1.71,
-     "New Orleans Saints": 2.2
+     "Minnesota Vikings": 1.74,
+     "New Orleans Saints": 2.15
     }
    },
    "bovada": {
@@ -441,8 +441,8 @@
    },
    "hardrockbet": {
     "h2h": {
-     "New York Giants": 2.55,
-     "Washington Commanders": 1.56
+     "New York Giants": 2.6,
+     "Washington Commanders": 1.53
     }
    },
    "pinnacle": {
@@ -467,8 +467,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Denver Broncos": 1.54,
-     "Los Angeles Chargers": 2.56
+     "Denver Broncos": 1.56,
+     "Los Angeles Chargers": 2.5
     }
    },
    "betonlineag": {
@@ -486,7 +486,7 @@
    "betmgm": {
     "h2h": {
      "Denver Broncos": 1.53,
-     "Los Angeles Chargers": 2.6
+     "Los Angeles Chargers": 2.55
     }
    },
    "hardrockbet": {
@@ -542,7 +542,7 @@
    "hardrockbet": {
     "h2h": {
      "Arizona Cardinals": 3.0,
-     "Detroit Lions": 1.38
+     "Detroit Lions": 1.42
     }
    },
    "bovada": {
@@ -659,5 +659,5 @@
    }
   }
  },
- "snap_ts": "2026-10-11T08:17:26Z"
+ "snap_ts": "2026-10-11T09:13:50Z"
 }
