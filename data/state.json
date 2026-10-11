@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-08": 14,
   "2026-10-10": 11,
-  "2026-10-11": 2
+  "2026-10-11": 3
  },
- "last_poll": "2026-10-11T01:14:40Z",
- "remaining": 435,
+ "last_poll": "2026-10-11T02:16:16Z",
+ "remaining": 434,
  "alerted": {},
  "snap": {
   "21b26266f3d78af02eb672e606275d95": {
@@ -79,7 +79,7 @@
    },
    "betrivers": {
     "h2h": {
-     "Chicago Bears": 1.81,
+     "Chicago Bears": 1.82,
      "Green Bay Packers": 2.02
     }
    },
@@ -247,14 +247,14 @@
    },
    "pinnacle": {
     "h2h": {
-     "Houston Texans": 1.26,
-     "Tennessee Titans": 4.09
+     "Houston Texans": 1.27,
+     "Tennessee Titans": 4.07
     }
    },
    "bovada": {
     "h2h": {
-     "Houston Texans": 1.25,
-     "Tennessee Titans": 4.0
+     "Houston Texans": 1.26,
+     "Tennessee Titans": 3.95
     }
    }
   },
@@ -659,5 +659,5 @@
    }
   }
  },
- "snap_ts": "2026-10-11T01:14:40Z"
+ "snap_ts": "2026-10-11T02:16:16Z"
 }
