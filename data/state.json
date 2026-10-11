@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-08": 14,
   "2026-10-10": 11,
-  "2026-10-11": 1
+  "2026-10-11": 2
  },
- "last_poll": "2026-10-11T00:20:47Z",
- "remaining": 436,
+ "last_poll": "2026-10-11T01:14:40Z",
+ "remaining": 435,
  "alerted": {},
  "snap": {
   "21b26266f3d78af02eb672e606275d95": {
@@ -67,8 +67,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Chicago Bears": 1.81,
-     "Green Bay Packers": 2.06
+     "Chicago Bears": 1.83,
+     "Green Bay Packers": 2.02
     }
    },
    "betonlineag": {
@@ -85,8 +85,8 @@
    },
    "betmgm": {
     "h2h": {
-     "Chicago Bears": 1.8,
-     "Green Bay Packers": 2.05
+     "Chicago Bears": 1.83,
+     "Green Bay Packers": 2.0
     }
    },
    "hardrockbet": {
@@ -286,7 +286,7 @@
    "betmgm": {
     "h2h": {
      "Indianapolis Colts": 2.25,
-     "Pittsburgh Steelers": 1.69
+     "Pittsburgh Steelers": 1.67
     }
    },
    "hardrockbet": {
@@ -397,22 +397,22 @@
    },
    "bovada": {
     "h2h": {
-     "Minnesota Vikings": 1.71,
-     "New Orleans Saints": 2.2
+     "Minnesota Vikings": 1.74,
+     "New Orleans Saints": 2.15
     }
    },
    "pinnacle": {
     "h2h": {
-     "Minnesota Vikings": 1.72,
-     "New Orleans Saints": 2.22
+     "Minnesota Vikings": 1.76,
+     "New Orleans Saints": 2.17
     }
    }
   },
   "fbffd0b7722fd81d68d5d62472dc80e8": {
    "draftkings": {
     "h2h": {
-     "New York Giants": 2.5,
-     "Washington Commanders": 1.56
+     "New York Giants": 2.45,
+     "Washington Commanders": 1.57
     }
    },
    "fanduel": {
@@ -553,7 +553,7 @@
    },
    "pinnacle": {
     "h2h": {
-     "Arizona Cardinals": 3.07,
+     "Arizona Cardinals": 3.08,
      "Detroit Lions": 1.41
     }
    }
@@ -659,5 +659,5 @@
    }
   }
  },
- "snap_ts": "2026-10-11T00:20:47Z"
+ "snap_ts": "2026-10-11T01:14:40Z"
 }
