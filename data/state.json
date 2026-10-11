@@ -2,17 +2,17 @@
  "calls": {
   "2026-10-08": 14,
   "2026-10-10": 11,
-  "2026-10-11": 6
+  "2026-10-11": 7
  },
- "last_poll": "2026-10-11T05:13:20Z",
- "remaining": 431,
+ "last_poll": "2026-10-11T06:22:16Z",
+ "remaining": 430,
  "alerted": {},
  "snap": {
   "21b26266f3d78af02eb672e606275d95": {
    "draftkings": {
     "h2h": {
      "Jacksonville Jaguars": 1.24,
-     "Philadelphia Eagles": 4.2
+     "Philadelphia Eagles": 4.3
     }
    },
    "fanduel": {
@@ -73,8 +73,8 @@
    },
    "betonlineag": {
     "h2h": {
-     "Chicago Bears": 1.84,
-     "Green Bay Packers": 1.99
+     "Chicago Bears": 1.78,
+     "Green Bay Packers": 2.09
     }
    },
    "betrivers": {
@@ -85,8 +85,8 @@
    },
    "betmgm": {
     "h2h": {
-     "Chicago Bears": 1.83,
-     "Green Bay Packers": 2.0
+     "Chicago Bears": 1.8,
+     "Green Bay Packers": 2.05
     }
    },
    "hardrockbet": {
@@ -197,7 +197,7 @@
    },
    "pinnacle": {
     "h2h": {
-     "Cleveland Browns": 2.23,
+     "Cleveland Browns": 2.22,
      "New York Jets": 1.72
     }
    },
@@ -229,8 +229,8 @@
    },
    "betrivers": {
     "h2h": {
-     "Houston Texans": 1.27,
-     "Tennessee Titans": 3.9
+     "Houston Texans": 1.29,
+     "Tennessee Titans": 3.7
     }
    },
    "betmgm": {
@@ -373,8 +373,8 @@
    },
    "betonlineag": {
     "h2h": {
-     "Minnesota Vikings": 1.74,
-     "New Orleans Saints": 2.15
+     "Minnesota Vikings": 1.73,
+     "New Orleans Saints": 2.17
     }
    },
    "betrivers": {
@@ -597,14 +597,14 @@
    },
    "pinnacle": {
     "h2h": {
-     "San Francisco 49ers": 2.52,
-     "Seattle Seahawks": 1.58
+     "San Francisco 49ers": 2.54,
+     "Seattle Seahawks": 1.57
     }
    },
    "bovada": {
     "h2h": {
-     "San Francisco 49ers": 2.5,
-     "Seattle Seahawks": 1.57
+     "San Francisco 49ers": 2.55,
+     "Seattle Seahawks": 1.56
     }
    }
   },
@@ -659,5 +659,5 @@
    }
   }
  },
- "snap_ts": "2026-10-11T05:13:20Z"
+ "snap_ts": "2026-10-11T06:22:16Z"
 }
