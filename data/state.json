@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-08": 14,
   "2026-10-10": 11,
-  "2026-10-11": 13
+  "2026-10-11": 14
  },
- "last_poll": "2026-10-11T12:24:16Z",
- "remaining": 424,
+ "last_poll": "2026-10-11T13:14:12Z",
+ "remaining": 423,
  "alerted": {},
  "snap": {
   "21b26266f3d78af02eb672e606275d95": {
@@ -18,19 +18,19 @@
    "fanduel": {
     "h2h": {
      "Jacksonville Jaguars": 1.25,
-     "Philadelphia Eagles": 4.15
+     "Philadelphia Eagles": 4.1
     }
    },
    "betmgm": {
     "h2h": {
      "Jacksonville Jaguars": 1.25,
-     "Philadelphia Eagles": 4.2
+     "Philadelphia Eagles": 4.1
     }
    },
    "bovada": {
     "h2h": {
-     "Jacksonville Jaguars": 1.25,
-     "Philadelphia Eagles": 4.0
+     "Jacksonville Jaguars": 1.24,
+     "Philadelphia Eagles": 4.05
     }
    },
    "betonlineag": {
@@ -54,7 +54,7 @@
    "pinnacle": {
     "h2h": {
      "Jacksonville Jaguars": 1.26,
-     "Philadelphia Eagles": 4.1
+     "Philadelphia Eagles": 4.11
     }
    }
   },
@@ -135,8 +135,8 @@
    },
    "betmgm": {
     "h2h": {
-     "Cincinnati Bengals": 1.29,
-     "Miami Dolphins": 3.8
+     "Cincinnati Bengals": 1.27,
+     "Miami Dolphins": 3.9
     }
    },
    "hardrockbet": {
@@ -148,13 +148,13 @@
    "bovada": {
     "h2h": {
      "Cincinnati Bengals": 1.26,
-     "Miami Dolphins": 3.9
+     "Miami Dolphins": 3.95
     }
    },
    "pinnacle": {
     "h2h": {
-     "Cincinnati Bengals": 1.27,
-     "Miami Dolphins": 4.01
+     "Cincinnati Bengals": 1.26,
+     "Miami Dolphins": 4.07
     }
    }
   },
@@ -211,32 +211,32 @@
   "cc52bba56e74f5cddbe9011046181c3d": {
    "draftkings": {
     "h2h": {
-     "Houston Texans": 1.28,
-     "Tennessee Titans": 3.8
+     "Houston Texans": 1.29,
+     "Tennessee Titans": 3.75
     }
    },
    "fanduel": {
     "h2h": {
      "Houston Texans": 1.27,
-     "Tennessee Titans": 4.0
+     "Tennessee Titans": 3.95
     }
    },
    "betonlineag": {
     "h2h": {
-     "Houston Texans": 1.27,
-     "Tennessee Titans": 3.92
+     "Houston Texans": 1.28,
+     "Tennessee Titans": 3.89
     }
    },
    "betrivers": {
     "h2h": {
-     "Houston Texans": 1.27,
-     "Tennessee Titans": 3.9
+     "Houston Texans": 1.28,
+     "Tennessee Titans": 3.8
     }
    },
    "betmgm": {
     "h2h": {
      "Houston Texans": 1.29,
-     "Tennessee Titans": 3.9
+     "Tennessee Titans": 3.8
     }
    },
    "hardrockbet": {
@@ -248,7 +248,7 @@
    "pinnacle": {
     "h2h": {
      "Houston Texans": 1.28,
-     "Tennessee Titans": 3.88
+     "Tennessee Titans": 3.89
     }
    },
    "bovada": {
@@ -298,7 +298,7 @@
    "pinnacle": {
     "h2h": {
      "Indianapolis Colts": 2.4,
-     "Pittsburgh Steelers": 1.65
+     "Pittsburgh Steelers": 1.64
     }
    },
    "bovada": {
@@ -317,8 +317,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Las Vegas Raiders": 2.54,
-     "New England Patriots": 1.54
+     "Las Vegas Raiders": 2.52,
+     "New England Patriots": 1.56
     }
    },
    "betonlineag": {
@@ -347,8 +347,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Las Vegas Raiders": 2.61,
-     "New England Patriots": 1.54
+     "Las Vegas Raiders": 2.65,
+     "New England Patriots": 1.53
     }
    },
    "bovada": {
@@ -461,8 +461,8 @@
   "d1d408fdfd272046fb517fe992a1c5a0": {
    "draftkings": {
     "h2h": {
-     "Denver Broncos": 1.54,
-     "Los Angeles Chargers": 2.54
+     "Denver Broncos": 1.52,
+     "Los Angeles Chargers": 2.6
     }
    },
    "fanduel": {
@@ -486,7 +486,7 @@
    "betmgm": {
     "h2h": {
      "Denver Broncos": 1.5,
-     "Los Angeles Chargers": 2.6
+     "Los Angeles Chargers": 2.65
     }
    },
    "hardrockbet": {
@@ -511,8 +511,8 @@
   "f8e7f43f73aa983c5c99c189587f0118": {
    "draftkings": {
     "h2h": {
-     "Arizona Cardinals": 3.1,
-     "Detroit Lions": 1.39
+     "Arizona Cardinals": 3.05,
+     "Detroit Lions": 1.4
     }
    },
    "fanduel": {
@@ -529,8 +529,8 @@
    },
    "betrivers": {
     "h2h": {
-     "Arizona Cardinals": 2.9,
-     "Detroit Lions": 1.42
+     "Arizona Cardinals": 2.88,
+     "Detroit Lions": 1.43
     }
    },
    "betmgm": {
@@ -659,5 +659,5 @@
    }
   }
  },
- "snap_ts": "2026-10-11T12:24:16Z"
+ "snap_ts": "2026-10-11T13:14:12Z"
 }
