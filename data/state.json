@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-08": 14,
   "2026-10-10": 11,
-  "2026-10-11": 3
+  "2026-10-11": 4
  },
- "last_poll": "2026-10-11T02:16:16Z",
- "remaining": 434,
+ "last_poll": "2026-10-11T03:14:04Z",
+ "remaining": 433,
  "alerted": {},
  "snap": {
   "21b26266f3d78af02eb672e606275d95": {
@@ -54,15 +54,15 @@
    "pinnacle": {
     "h2h": {
      "Jacksonville Jaguars": 1.27,
-     "Philadelphia Eagles": 4.04
+     "Philadelphia Eagles": 4.05
     }
    }
   },
   "2caea57b1e5cfbba1334cfbfd46f6771": {
    "draftkings": {
     "h2h": {
-     "Chicago Bears": 1.77,
-     "Green Bay Packers": 2.1
+     "Chicago Bears": 1.82,
+     "Green Bay Packers": 2.02
     }
    },
    "fanduel": {
@@ -86,7 +86,7 @@
    "betmgm": {
     "h2h": {
      "Chicago Bears": 1.83,
-     "Green Bay Packers": 2.0
+     "Green Bay Packers": 2.05
     }
    },
    "hardrockbet": {
@@ -117,8 +117,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Cincinnati Bengals": 1.3,
-     "Miami Dolphins": 3.65
+     "Cincinnati Bengals": 1.29,
+     "Miami Dolphins": 3.75
     }
    },
    "betonlineag": {
@@ -224,7 +224,7 @@
    "betonlineag": {
     "h2h": {
      "Houston Texans": 1.27,
-     "Tennessee Titans": 3.92
+     "Tennessee Titans": 3.99
     }
    },
    "betrivers": {
@@ -261,13 +261,13 @@
   "448d7cf18c6db4c811ed82ded1b72867": {
    "draftkings": {
     "h2h": {
-     "Indianapolis Colts": 2.24,
-     "Pittsburgh Steelers": 1.68
+     "Indianapolis Colts": 2.2,
+     "Pittsburgh Steelers": 1.7
     }
    },
    "fanduel": {
     "h2h": {
-     "Indianapolis Colts": 2.26,
+     "Indianapolis Colts": 2.24,
      "Pittsburgh Steelers": 1.68
     }
    },
@@ -286,7 +286,7 @@
    "betmgm": {
     "h2h": {
      "Indianapolis Colts": 2.25,
-     "Pittsburgh Steelers": 1.67
+     "Pittsburgh Steelers": 1.69
     }
    },
    "hardrockbet": {
@@ -317,8 +317,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Las Vegas Raiders": 2.62,
-     "New England Patriots": 1.52
+     "Las Vegas Raiders": 2.54,
+     "New England Patriots": 1.54
     }
    },
    "betonlineag": {
@@ -335,7 +335,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Las Vegas Raiders": 2.6,
+     "Las Vegas Raiders": 2.55,
      "New England Patriots": 1.53
     }
    },
@@ -373,8 +373,8 @@
    },
    "betonlineag": {
     "h2h": {
-     "Minnesota Vikings": 1.71,
-     "New Orleans Saints": 2.2
+     "Minnesota Vikings": 1.74,
+     "New Orleans Saints": 2.15
     }
    },
    "betrivers": {
@@ -385,8 +385,8 @@
    },
    "betmgm": {
     "h2h": {
-     "Minnesota Vikings": 1.71,
-     "New Orleans Saints": 2.15
+     "Minnesota Vikings": 1.74,
+     "New Orleans Saints": 2.1
     }
    },
    "hardrockbet": {
@@ -473,8 +473,8 @@
    },
    "betonlineag": {
     "h2h": {
-     "Denver Broncos": 1.56,
-     "Los Angeles Chargers": 2.57
+     "Denver Broncos": 1.53,
+     "Los Angeles Chargers": 2.64
     }
    },
    "betrivers": {
@@ -659,5 +659,5 @@
    }
   }
  },
- "snap_ts": "2026-10-11T02:16:16Z"
+ "snap_ts": "2026-10-11T03:14:04Z"
 }
