@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-08": 14,
   "2026-10-10": 11,
-  "2026-10-11": 8
+  "2026-10-11": 9
  },
- "last_poll": "2026-10-11T07:14:32Z",
- "remaining": 429,
+ "last_poll": "2026-10-11T08:17:26Z",
+ "remaining": 428,
  "alerted": {},
  "snap": {
   "21b26266f3d78af02eb672e606275d95": {
@@ -23,7 +23,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Jacksonville Jaguars": 1.25,
+     "Jacksonville Jaguars": 1.27,
      "Philadelphia Eagles": 4.1
     }
    },
@@ -73,8 +73,8 @@
    },
    "betonlineag": {
     "h2h": {
-     "Chicago Bears": 1.78,
-     "Green Bay Packers": 2.09
+     "Chicago Bears": 1.76,
+     "Green Bay Packers": 2.11
     }
    },
    "betrivers": {
@@ -247,7 +247,7 @@
    },
    "pinnacle": {
     "h2h": {
-     "Houston Texans": 1.27,
+     "Houston Texans": 1.26,
      "Tennessee Titans": 4.07
     }
    },
@@ -529,7 +529,7 @@
    },
    "betrivers": {
     "h2h": {
-     "Arizona Cardinals": 2.88,
+     "Arizona Cardinals": 2.9,
      "Detroit Lions": 1.43
     }
    },
@@ -542,7 +542,7 @@
    "hardrockbet": {
     "h2h": {
      "Arizona Cardinals": 3.0,
-     "Detroit Lions": 1.4
+     "Detroit Lions": 1.38
     }
    },
    "bovada": {
@@ -659,5 +659,5 @@
    }
   }
  },
- "snap_ts": "2026-10-11T07:14:32Z"
+ "snap_ts": "2026-10-11T08:17:26Z"
 }
