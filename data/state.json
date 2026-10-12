@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-10": 11,
   "2026-10-11": 14,
-  "2026-10-12": 13
+  "2026-10-12": 14
  },
- "last_poll": "2026-10-12T12:25:54Z",
- "remaining": 410,
+ "last_poll": "2026-10-12T13:11:31Z",
+ "remaining": 409,
  "alerted": {},
  "snap": {
   "e6d00eedd87d367e510314bd8cab8f6f": {
@@ -17,14 +17,14 @@
    },
    "fanduel": {
     "h2h": {
-     "Buffalo Bills": 2.5,
-     "Los Angeles Rams": 1.56
+     "Buffalo Bills": 2.48,
+     "Los Angeles Rams": 1.57
     }
    },
    "betonlineag": {
     "h2h": {
-     "Buffalo Bills": 2.57,
-     "Los Angeles Rams": 1.56
+     "Buffalo Bills": 2.53,
+     "Los Angeles Rams": 1.57
     }
    },
    "betrivers": {
@@ -41,8 +41,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Buffalo Bills": 2.54,
-     "Los Angeles Rams": 1.58
+     "Buffalo Bills": 2.5,
+     "Los Angeles Rams": 1.6
     }
    },
    "hardrockbet": {
@@ -53,5 +53,5 @@
    }
   }
  },
- "snap_ts": "2026-10-12T12:25:54Z"
+ "snap_ts": "2026-10-12T13:11:31Z"
 }
