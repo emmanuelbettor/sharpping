@@ -1,10 +1,10 @@
 {
  "calls": {
   "2026-10-12": 14,
-  "2026-10-15": 9
+  "2026-10-15": 10
  },
- "last_poll": "2026-10-15T10:04:43Z",
- "remaining": 400,
+ "last_poll": "2026-10-15T11:25:17Z",
+ "remaining": 399,
  "alerted": {},
  "snap": {
   "855f58fad5f0f14b239f4f63df27998b": {
@@ -22,7 +22,7 @@
    },
    "betonlineag": {
     "h2h": {
-     "Denver Broncos": 2.24,
+     "Denver Broncos": 2.25,
      "Seattle Seahawks": 1.69
     }
    },
@@ -34,7 +34,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Denver Broncos": 2.2,
+     "Denver Broncos": 2.25,
      "Seattle Seahawks": 1.69
     }
    },
@@ -58,5 +58,5 @@
    }
   }
  },
- "snap_ts": "2026-10-15T10:04:43Z"
+ "snap_ts": "2026-10-15T11:25:17Z"
 }
