@@ -1,56 +1,62 @@
 {
  "calls": {
-  "2026-10-11": 14,
-  "2026-10-12": 14
+  "2026-10-12": 14,
+  "2026-10-15": 1
  },
- "last_poll": "2026-10-12T13:11:31Z",
- "remaining": 409,
+ "last_poll": "2026-10-15T00:29:16Z",
+ "remaining": 408,
  "alerted": {},
  "snap": {
-  "e6d00eedd87d367e510314bd8cab8f6f": {
+  "855f58fad5f0f14b239f4f63df27998b": {
    "draftkings": {
     "h2h": {
-     "Buffalo Bills": 2.5,
-     "Los Angeles Rams": 1.56
+     "Denver Broncos": 2.2,
+     "Seattle Seahawks": 1.7
     }
    },
    "fanduel": {
     "h2h": {
-     "Buffalo Bills": 2.48,
-     "Los Angeles Rams": 1.57
+     "Denver Broncos": 2.24,
+     "Seattle Seahawks": 1.68
     }
    },
    "betonlineag": {
     "h2h": {
-     "Buffalo Bills": 2.53,
-     "Los Angeles Rams": 1.57
+     "Denver Broncos": 2.2,
+     "Seattle Seahawks": 1.71
     }
    },
    "betrivers": {
     "h2h": {
-     "Buffalo Bills": 2.45,
-     "Los Angeles Rams": 1.56
+     "Denver Broncos": 2.25,
+     "Seattle Seahawks": 1.67
     }
    },
    "betmgm": {
     "h2h": {
-     "Buffalo Bills": 2.45,
-     "Los Angeles Rams": 1.57
+     "Denver Broncos": 2.2,
+     "Seattle Seahawks": 1.69
     }
    },
    "pinnacle": {
     "h2h": {
-     "Buffalo Bills": 2.5,
-     "Los Angeles Rams": 1.6
+     "Denver Broncos": 2.2,
+     "Seattle Seahawks": 1.74
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Denver Broncos": 2.2,
+     "Seattle Seahawks": 1.71
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Buffalo Bills": 2.5,
-     "Los Angeles Rams": 1.57
+     "Denver Broncos": 2.2,
+     "Seattle Seahawks": 1.71
     }
    }
   }
  },
- "snap_ts": "2026-10-12T13:11:31Z"
+ "snap_ts": "2026-10-15T00:29:16Z"
 }
