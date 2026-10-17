@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-15": 14,
   "2026-10-16": 1,
-  "2026-10-17": 9
+  "2026-10-17": 10
  },
- "last_poll": "2026-10-17T21:52:11Z",
- "remaining": 385,
+ "last_poll": "2026-10-17T22:50:44Z",
+ "remaining": 384,
  "alerted": {},
  "snap": {
   "57418b2cf5aca558b3c98eafac1e264a": {
@@ -155,8 +155,8 @@
   "caca2d752fe1a1779029082e95332fcc": {
    "draftkings": {
     "h2h": {
-     "Carolina Panthers": 1.59,
-     "Philadelphia Eagles": 2.42
+     "Carolina Panthers": 1.57,
+     "Philadelphia Eagles": 2.45
     }
    },
    "fanduel": {
@@ -255,8 +255,8 @@
   "0b0b582b32b09ab6ff6664ffae0c9653": {
    "draftkings": {
     "h2h": {
-     "New England Patriots": 1.28,
-     "New York Jets": 3.8
+     "New England Patriots": 1.29,
+     "New York Jets": 3.75
     }
    },
    "fanduel": {
@@ -311,8 +311,8 @@
    },
    "fanduel": {
     "h2h": {
-     "New Orleans Saints": 1.89,
-     "New York Giants": 1.96
+     "New Orleans Saints": 1.91,
+     "New York Giants": 1.94
     }
    },
    "betrivers": {
@@ -323,8 +323,8 @@
    },
    "betmgm": {
     "h2h": {
-     "New Orleans Saints": 1.91,
-     "New York Giants": 1.93
+     "New Orleans Saints": 1.89,
+     "New York Giants": 1.95
     }
    },
    "hardrockbet": {
@@ -356,7 +356,7 @@
    "fanduel": {
     "h2h": {
      "Pittsburgh Steelers": 1.7,
-     "Tampa Bay Buccaneers": 2.18
+     "Tampa Bay Buccaneers": 2.2
     }
    },
    "betonlineag": {
@@ -500,7 +500,7 @@
    "draftkings": {
     "h2h": {
      "Kansas City Chiefs": 1.24,
-     "Los Angeles Chargers": 4.2
+     "Los Angeles Chargers": 4.3
     }
    },
    "fanduel": {
@@ -547,5 +547,5 @@
    }
   }
  },
- "snap_ts": "2026-10-17T21:52:11Z"
+ "snap_ts": "2026-10-17T22:50:44Z"
 }
