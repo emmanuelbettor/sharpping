@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-15": 14,
   "2026-10-16": 1,
-  "2026-10-17": 8
+  "2026-10-17": 9
  },
- "last_poll": "2026-10-17T20:54:11Z",
- "remaining": 386,
+ "last_poll": "2026-10-17T21:52:11Z",
+ "remaining": 385,
  "alerted": {},
  "snap": {
   "57418b2cf5aca558b3c98eafac1e264a": {
@@ -80,7 +80,7 @@
    "betmgm": {
     "h2h": {
      "Atlanta Falcons": 1.95,
-     "Chicago Bears": 1.89
+     "Chicago Bears": 1.87
     }
    },
    "hardrockbet": {
@@ -105,8 +105,8 @@
   "e86227938fd3cf008fc5648fb5128344": {
    "draftkings": {
     "h2h": {
-     "Baltimore Ravens": 1.59,
-     "Cleveland Browns": 2.42
+     "Baltimore Ravens": 1.57,
+     "Cleveland Browns": 2.45
     }
    },
    "fanduel": {
@@ -223,8 +223,8 @@
    },
    "betrivers": {
     "h2h": {
-     "Indianapolis Colts": 1.3,
-     "Tennessee Titans": 3.55
+     "Indianapolis Colts": 1.28,
+     "Tennessee Titans": 3.7
     }
    },
    "betmgm": {
@@ -500,7 +500,7 @@
    "draftkings": {
     "h2h": {
      "Kansas City Chiefs": 1.24,
-     "Los Angeles Chargers": 4.3
+     "Los Angeles Chargers": 4.2
     }
    },
    "fanduel": {
@@ -524,7 +524,7 @@
    "betmgm": {
     "h2h": {
      "Kansas City Chiefs": 1.25,
-     "Los Angeles Chargers": 4.1
+     "Los Angeles Chargers": 4.2
     }
    },
    "pinnacle": {
@@ -547,5 +547,5 @@
    }
   }
  },
- "snap_ts": "2026-10-17T20:54:11Z"
+ "snap_ts": "2026-10-17T21:52:11Z"
 }
