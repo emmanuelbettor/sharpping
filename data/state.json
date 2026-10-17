@@ -1,62 +1,63 @@
 {
  "calls": {
   "2026-10-15": 14,
-  "2026-10-16": 1
+  "2026-10-16": 1,
+  "2026-10-17": 1
  },
- "last_poll": "2026-10-16T00:00:12Z",
- "remaining": 394,
+ "last_poll": "2026-10-17T13:54:41Z",
+ "remaining": 393,
  "alerted": {},
  "snap": {
-  "855f58fad5f0f14b239f4f63df27998b": {
+  "57418b2cf5aca558b3c98eafac1e264a": {
    "draftkings": {
     "h2h": {
-     "Denver Broncos": 2.3,
-     "Seattle Seahawks": 1.65
+     "Houston Texans": 2.24,
+     "Jacksonville Jaguars": 1.68
     }
    },
    "fanduel": {
     "h2h": {
-     "Denver Broncos": 2.26,
-     "Seattle Seahawks": 1.68
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Denver Broncos": 2.25,
-     "Seattle Seahawks": 1.69
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Denver Broncos": 2.2,
-     "Seattle Seahawks": 1.68
+     "Houston Texans": 2.2,
+     "Jacksonville Jaguars": 1.7
     }
    },
    "betmgm": {
     "h2h": {
-     "Denver Broncos": 2.25,
-     "Seattle Seahawks": 1.69
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Denver Broncos": 2.28,
-     "Seattle Seahawks": 1.71
+     "Houston Texans": 2.2,
+     "Jacksonville Jaguars": 1.69
     }
    },
    "bovada": {
     "h2h": {
-     "Denver Broncos": 2.25,
-     "Seattle Seahawks": 1.69
+     "Houston Texans": 2.25,
+     "Jacksonville Jaguars": 1.69
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Houston Texans": 2.25,
+     "Jacksonville Jaguars": 1.69
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Houston Texans": 2.16,
+     "Jacksonville Jaguars": 1.68
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Houston Texans": 2.28,
+     "Jacksonville Jaguars": 1.69
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Denver Broncos": 2.3,
-     "Seattle Seahawks": 1.67
+     "Houston Texans": 2.25,
+     "Jacksonville Jaguars": 1.69
     }
    }
   }
  },
- "snap_ts": "2026-10-16T00:00:12Z"
+ "snap_ts": "2026-10-17T13:54:41Z"
 }
