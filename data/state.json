@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-15": 14,
   "2026-10-16": 1,
-  "2026-10-17": 5
+  "2026-10-17": 6
  },
- "last_poll": "2026-10-17T17:50:57Z",
- "remaining": 389,
+ "last_poll": "2026-10-17T18:56:26Z",
+ "remaining": 388,
  "alerted": {},
  "snap": {
   "57418b2cf5aca558b3c98eafac1e264a": {
@@ -73,8 +73,8 @@
    },
    "betrivers": {
     "h2h": {
-     "Atlanta Falcons": 1.96,
-     "Chicago Bears": 1.85
+     "Atlanta Falcons": 1.93,
+     "Chicago Bears": 1.88
     }
    },
    "betmgm": {
@@ -155,8 +155,8 @@
   "caca2d752fe1a1779029082e95332fcc": {
    "draftkings": {
     "h2h": {
-     "Carolina Panthers": 1.6,
-     "Philadelphia Eagles": 2.4
+     "Carolina Panthers": 1.57,
+     "Philadelphia Eagles": 2.45
     }
    },
    "fanduel": {
@@ -185,8 +185,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Carolina Panthers": 1.58,
-     "Philadelphia Eagles": 2.5
+     "Carolina Panthers": 1.57,
+     "Philadelphia Eagles": 2.53
     }
    },
    "bovada": {
@@ -236,13 +236,13 @@
    "pinnacle": {
     "h2h": {
      "Indianapolis Colts": 1.29,
-     "Tennessee Titans": 3.81
+     "Tennessee Titans": 3.79
     }
    },
    "bovada": {
     "h2h": {
      "Indianapolis Colts": 1.29,
-     "Tennessee Titans": 3.75
+     "Tennessee Titans": 3.7
     }
    },
    "hardrockbet": {
@@ -285,14 +285,14 @@
    },
    "pinnacle": {
     "h2h": {
-     "New England Patriots": 1.27,
-     "New York Jets": 4.01
+     "New England Patriots": 1.28,
+     "New York Jets": 3.92
     }
    },
    "bovada": {
     "h2h": {
      "New England Patriots": 1.26,
-     "New York Jets": 3.95
+     "New York Jets": 3.9
     }
    },
    "hardrockbet": {
@@ -397,5 +397,5 @@
    }
   }
  },
- "snap_ts": "2026-10-17T17:50:57Z"
+ "snap_ts": "2026-10-17T18:56:26Z"
 }
