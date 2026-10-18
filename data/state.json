@@ -3,17 +3,17 @@
   "2026-10-15": 14,
   "2026-10-16": 1,
   "2026-10-17": 11,
-  "2026-10-18": 6
+  "2026-10-18": 7
  },
- "last_poll": "2026-10-18T06:25:10Z",
- "remaining": 377,
+ "last_poll": "2026-10-18T07:41:43Z",
+ "remaining": 376,
  "alerted": {},
  "snap": {
   "57418b2cf5aca558b3c98eafac1e264a": {
    "draftkings": {
     "h2h": {
-     "Houston Texans": 2.24,
-     "Jacksonville Jaguars": 1.68
+     "Houston Texans": 2.2,
+     "Jacksonville Jaguars": 1.7
     }
    },
    "fanduel": {
@@ -48,7 +48,7 @@
    },
    "pinnacle": {
     "h2h": {
-     "Houston Texans": 2.23,
+     "Houston Texans": 2.22,
      "Jacksonville Jaguars": 1.72
     }
    },
@@ -62,8 +62,8 @@
   "7c312fdf24fb35f58b0e07c2932cc997": {
    "draftkings": {
     "h2h": {
-     "Atlanta Falcons": 1.98,
-     "Chicago Bears": 1.85
+     "Atlanta Falcons": 2.0,
+     "Chicago Bears": 1.83
     }
    },
    "fanduel": {
@@ -92,7 +92,7 @@
    },
    "pinnacle": {
     "h2h": {
-     "Atlanta Falcons": 2.0,
+     "Atlanta Falcons": 2.01,
      "Chicago Bears": 1.88
     }
    },
@@ -174,8 +174,8 @@
    },
    "betrivers": {
     "h2h": {
-     "Carolina Panthers": 1.53,
-     "Philadelphia Eagles": 2.55
+     "Carolina Panthers": 1.6,
+     "Philadelphia Eagles": 2.35
     }
    },
    "betmgm": {
@@ -287,7 +287,7 @@
    "pinnacle": {
     "h2h": {
      "New England Patriots": 1.28,
-     "New York Jets": 3.94
+     "New York Jets": 3.95
     }
    },
    "bovada": {
@@ -400,8 +400,8 @@
   "3729ac6d2a66b642850caf2044cdc658": {
    "draftkings": {
     "h2h": {
-     "Arizona Cardinals": 6.25,
-     "Los Angeles Rams": 1.13
+     "Arizona Cardinals": 6.5,
+     "Los Angeles Rams": 1.12
     }
    },
    "fanduel": {
@@ -424,7 +424,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Arizona Cardinals": 7.0,
+     "Arizona Cardinals": 6.75,
      "Los Angeles Rams": 1.12
     }
    },
@@ -531,7 +531,7 @@
    "pinnacle": {
     "h2h": {
      "Kansas City Chiefs": 1.22,
-     "Los Angeles Chargers": 4.63
+     "Los Angeles Chargers": 4.62
     }
    },
    "bovada": {
@@ -598,5 +598,5 @@
    }
   }
  },
- "snap_ts": "2026-10-18T06:25:10Z"
+ "snap_ts": "2026-10-18T07:41:43Z"
 }
