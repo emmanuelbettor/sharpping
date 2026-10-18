@@ -2,10 +2,11 @@
  "calls": {
   "2026-10-15": 14,
   "2026-10-16": 1,
-  "2026-10-17": 11
+  "2026-10-17": 11,
+  "2026-10-18": 1
  },
- "last_poll": "2026-10-17T23:48:19Z",
- "remaining": 383,
+ "last_poll": "2026-10-18T01:10:53Z",
+ "remaining": 382,
  "alerted": {},
  "snap": {
   "57418b2cf5aca558b3c98eafac1e264a": {
@@ -41,7 +42,7 @@
    },
    "betrivers": {
     "h2h": {
-     "Houston Texans": 2.16,
+     "Houston Texans": 2.2,
      "Jacksonville Jaguars": 1.68
     }
    },
@@ -53,8 +54,8 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Houston Texans": 2.25,
-     "Jacksonville Jaguars": 1.69
+     "Houston Texans": 2.3,
+     "Jacksonville Jaguars": 1.67
     }
    }
   },
@@ -73,8 +74,8 @@
    },
    "betrivers": {
     "h2h": {
-     "Atlanta Falcons": 1.93,
-     "Chicago Bears": 1.88
+     "Atlanta Falcons": 1.96,
+     "Chicago Bears": 1.85
     }
    },
    "betmgm": {
@@ -105,8 +106,8 @@
   "e86227938fd3cf008fc5648fb5128344": {
    "draftkings": {
     "h2h": {
-     "Baltimore Ravens": 1.57,
-     "Cleveland Browns": 2.45
+     "Baltimore Ravens": 1.6,
+     "Cleveland Browns": 2.4
     }
    },
    "fanduel": {
@@ -141,14 +142,14 @@
    },
    "pinnacle": {
     "h2h": {
-     "Baltimore Ravens": 1.57,
-     "Cleveland Browns": 2.53
+     "Baltimore Ravens": 1.6,
+     "Cleveland Browns": 2.46
     }
    },
    "bovada": {
     "h2h": {
-     "Baltimore Ravens": 1.56,
-     "Cleveland Browns": 2.55
+     "Baltimore Ravens": 1.59,
+     "Cleveland Browns": 2.45
     }
    }
   },
@@ -162,7 +163,7 @@
    "fanduel": {
     "h2h": {
      "Carolina Panthers": 1.57,
-     "Philadelphia Eagles": 2.46
+     "Philadelphia Eagles": 2.48
     }
    },
    "betonlineag": {
@@ -185,8 +186,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Carolina Panthers": 1.59,
-     "Philadelphia Eagles": 2.49
+     "Carolina Panthers": 1.6,
+     "Philadelphia Eagles": 2.48
     }
    },
    "bovada": {
@@ -223,8 +224,8 @@
    },
    "betrivers": {
     "h2h": {
-     "Indianapolis Colts": 1.28,
-     "Tennessee Titans": 3.7
+     "Indianapolis Colts": 1.27,
+     "Tennessee Titans": 3.75
     }
    },
    "betmgm": {
@@ -235,14 +236,14 @@
    },
    "pinnacle": {
     "h2h": {
-     "Indianapolis Colts": 1.3,
-     "Tennessee Titans": 3.73
+     "Indianapolis Colts": 1.31,
+     "Tennessee Titans": 3.68
     }
    },
    "bovada": {
     "h2h": {
-     "Indianapolis Colts": 1.29,
-     "Tennessee Titans": 3.7
+     "Indianapolis Colts": 1.3,
+     "Tennessee Titans": 3.65
     }
    },
    "hardrockbet": {
@@ -255,14 +256,14 @@
   "0b0b582b32b09ab6ff6664ffae0c9653": {
    "draftkings": {
     "h2h": {
-     "New England Patriots": 1.29,
-     "New York Jets": 3.75
+     "New England Patriots": 1.28,
+     "New York Jets": 3.8
     }
    },
    "fanduel": {
     "h2h": {
-     "New England Patriots": 1.28,
-     "New York Jets": 3.9
+     "New England Patriots": 1.27,
+     "New York Jets": 3.95
     }
    },
    "betonlineag": {
@@ -286,7 +287,7 @@
    "pinnacle": {
     "h2h": {
      "New England Patriots": 1.28,
-     "New York Jets": 3.93
+     "New York Jets": 3.94
     }
    },
    "bovada": {
@@ -305,8 +306,8 @@
   "1cf74afd313e9fd300e1462012b174cb": {
    "draftkings": {
     "h2h": {
-     "New Orleans Saints": 1.91,
-     "New York Giants": 1.91
+     "New Orleans Saints": 1.93,
+     "New York Giants": 1.89
     }
    },
    "fanduel": {
@@ -323,8 +324,8 @@
    },
    "betmgm": {
     "h2h": {
-     "New Orleans Saints": 1.89,
-     "New York Giants": 1.95
+     "New Orleans Saints": 1.91,
+     "New York Giants": 1.91
     }
    },
    "hardrockbet": {
@@ -435,7 +436,7 @@
    },
    "pinnacle": {
     "h2h": {
-     "Arizona Cardinals": 6.96,
+     "Arizona Cardinals": 6.93,
      "Los Angeles Rams": 1.12
     }
    },
@@ -455,8 +456,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Buffalo Bills": 1.41,
-     "Las Vegas Raiders": 3.0
+     "Buffalo Bills": 1.4,
+     "Las Vegas Raiders": 3.05
     }
    },
    "betonlineag": {
@@ -474,25 +475,25 @@
    "betmgm": {
     "h2h": {
      "Buffalo Bills": 1.43,
-     "Las Vegas Raiders": 2.95
+     "Las Vegas Raiders": 3.0
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Buffalo Bills": 1.42,
-     "Las Vegas Raiders": 3.0
+     "Buffalo Bills": 1.4,
+     "Las Vegas Raiders": 3.1
     }
    },
    "pinnacle": {
     "h2h": {
-     "Buffalo Bills": 1.45,
-     "Las Vegas Raiders": 2.91
+     "Buffalo Bills": 1.44,
+     "Las Vegas Raiders": 2.94
     }
    },
    "bovada": {
     "h2h": {
-     "Buffalo Bills": 1.44,
-     "Las Vegas Raiders": 2.85
+     "Buffalo Bills": 1.43,
+     "Las Vegas Raiders": 2.9
     }
    }
   },
@@ -529,23 +530,73 @@
    },
    "pinnacle": {
     "h2h": {
-     "Kansas City Chiefs": 1.24,
-     "Los Angeles Chargers": 4.39
+     "Kansas City Chiefs": 1.22,
+     "Los Angeles Chargers": 4.63
     }
    },
    "bovada": {
     "h2h": {
-     "Kansas City Chiefs": 1.23,
-     "Los Angeles Chargers": 4.3
+     "Kansas City Chiefs": 1.21,
+     "Los Angeles Chargers": 4.5
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Kansas City Chiefs": 1.24,
+     "Kansas City Chiefs": 1.22,
      "Los Angeles Chargers": 4.25
+    }
+   }
+  },
+  "82fd5a159fa130e67abab93a9537f70b": {
+   "draftkings": {
+    "h2h": {
+     "Dallas Cowboys": 1.95,
+     "Green Bay Packers": 1.87
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Dallas Cowboys": 2.0,
+     "Green Bay Packers": 1.85
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Dallas Cowboys": 1.95,
+     "Green Bay Packers": 1.87
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Dallas Cowboys": 2.0,
+     "Green Bay Packers": 1.83
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Dallas Cowboys": 1.95,
+     "Green Bay Packers": 1.87
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Dallas Cowboys": 1.98,
+     "Green Bay Packers": 1.91
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Dallas Cowboys": 1.91,
+     "Green Bay Packers": 1.91
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Dallas Cowboys": 1.95,
+     "Green Bay Packers": 1.87
     }
    }
   }
  },
- "snap_ts": "2026-10-17T23:48:19Z"
+ "snap_ts": "2026-10-18T01:10:53Z"
 }
