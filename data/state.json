@@ -3,17 +3,17 @@
   "2026-10-15": 14,
   "2026-10-16": 1,
   "2026-10-17": 11,
-  "2026-10-18": 4
+  "2026-10-18": 5
  },
- "last_poll": "2026-10-18T04:11:26Z",
- "remaining": 379,
+ "last_poll": "2026-10-18T05:21:40Z",
+ "remaining": 378,
  "alerted": {},
  "snap": {
   "57418b2cf5aca558b3c98eafac1e264a": {
    "draftkings": {
     "h2h": {
-     "Houston Texans": 2.24,
-     "Jacksonville Jaguars": 1.68
+     "Houston Texans": 2.3,
+     "Jacksonville Jaguars": 1.65
     }
    },
    "fanduel": {
@@ -113,7 +113,7 @@
    "fanduel": {
     "h2h": {
      "Baltimore Ravens": 1.56,
-     "Cleveland Browns": 2.5
+     "Cleveland Browns": 2.48
     }
    },
    "betonlineag": {
@@ -162,8 +162,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Carolina Panthers": 1.57,
-     "Philadelphia Eagles": 2.46
+     "Carolina Panthers": 1.58,
+     "Philadelphia Eagles": 2.44
     }
    },
    "betonlineag": {
@@ -262,8 +262,8 @@
    },
    "fanduel": {
     "h2h": {
-     "New England Patriots": 1.27,
-     "New York Jets": 3.95
+     "New England Patriots": 1.29,
+     "New York Jets": 3.8
     }
    },
    "betonlineag": {
@@ -281,7 +281,7 @@
    "betmgm": {
     "h2h": {
      "New England Patriots": 1.29,
-     "New York Jets": 3.8
+     "New York Jets": 3.9
     }
    },
    "pinnacle": {
@@ -400,8 +400,8 @@
   "3729ac6d2a66b642850caf2044cdc658": {
    "draftkings": {
     "h2h": {
-     "Arizona Cardinals": 6.5,
-     "Los Angeles Rams": 1.12
+     "Arizona Cardinals": 6.25,
+     "Los Angeles Rams": 1.13
     }
    },
    "fanduel": {
@@ -425,7 +425,7 @@
    "betmgm": {
     "h2h": {
      "Arizona Cardinals": 6.75,
-     "Los Angeles Rams": 1.12
+     "Los Angeles Rams": 1.13
     }
    },
    "hardrockbet": {
@@ -475,7 +475,7 @@
    "betmgm": {
     "h2h": {
      "Buffalo Bills": 1.43,
-     "Las Vegas Raiders": 3.0
+     "Las Vegas Raiders": 2.95
     }
    },
    "hardrockbet": {
@@ -501,7 +501,7 @@
    "draftkings": {
     "h2h": {
      "Kansas City Chiefs": 1.24,
-     "Los Angeles Chargers": 4.3
+     "Los Angeles Chargers": 4.2
     }
    },
    "fanduel": {
@@ -598,5 +598,5 @@
    }
   }
  },
- "snap_ts": "2026-10-18T04:11:26Z"
+ "snap_ts": "2026-10-18T05:21:40Z"
 }
