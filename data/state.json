@@ -3,17 +3,17 @@
   "2026-10-15": 14,
   "2026-10-16": 1,
   "2026-10-17": 11,
-  "2026-10-18": 2
+  "2026-10-18": 3
  },
- "last_poll": "2026-10-18T02:10:14Z",
- "remaining": 381,
+ "last_poll": "2026-10-18T03:10:03Z",
+ "remaining": 380,
  "alerted": {},
  "snap": {
   "57418b2cf5aca558b3c98eafac1e264a": {
    "draftkings": {
     "h2h": {
-     "Houston Texans": 2.2,
-     "Jacksonville Jaguars": 1.7
+     "Houston Texans": 2.24,
+     "Jacksonville Jaguars": 1.68
     }
    },
    "fanduel": {
@@ -142,8 +142,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Baltimore Ravens": 1.61,
-     "Cleveland Browns": 2.44
+     "Baltimore Ravens": 1.6,
+     "Cleveland Browns": 2.46
     }
    },
    "bovada": {
@@ -163,7 +163,7 @@
    "fanduel": {
     "h2h": {
      "Carolina Panthers": 1.57,
-     "Philadelphia Eagles": 2.48
+     "Philadelphia Eagles": 2.46
     }
    },
    "betonlineag": {
@@ -187,7 +187,7 @@
    "pinnacle": {
     "h2h": {
      "Carolina Panthers": 1.6,
-     "Philadelphia Eagles": 2.48
+     "Philadelphia Eagles": 2.47
     }
    },
    "bovada": {
@@ -436,7 +436,7 @@
    },
    "pinnacle": {
     "h2h": {
-     "Arizona Cardinals": 6.93,
+     "Arizona Cardinals": 6.99,
      "Los Angeles Rams": 1.12
     }
    },
@@ -456,8 +456,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Buffalo Bills": 1.4,
-     "Las Vegas Raiders": 3.05
+     "Buffalo Bills": 1.41,
+     "Las Vegas Raiders": 3.0
     }
    },
    "betonlineag": {
@@ -531,13 +531,13 @@
    "pinnacle": {
     "h2h": {
      "Kansas City Chiefs": 1.22,
-     "Los Angeles Chargers": 4.63
+     "Los Angeles Chargers": 4.56
     }
    },
    "bovada": {
     "h2h": {
      "Kansas City Chiefs": 1.21,
-     "Los Angeles Chargers": 4.5
+     "Los Angeles Chargers": 4.45
     }
    },
    "hardrockbet": {
@@ -562,8 +562,8 @@
    },
    "betonlineag": {
     "h2h": {
-     "Dallas Cowboys": 1.95,
-     "Green Bay Packers": 1.87
+     "Dallas Cowboys": 1.94,
+     "Green Bay Packers": 1.88
     }
    },
    "betrivers": {
@@ -580,8 +580,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Dallas Cowboys": 1.98,
-     "Green Bay Packers": 1.91
+     "Dallas Cowboys": 1.97,
+     "Green Bay Packers": 1.92
     }
    },
    "bovada": {
@@ -598,5 +598,5 @@
    }
   }
  },
- "snap_ts": "2026-10-18T02:10:14Z"
+ "snap_ts": "2026-10-18T03:10:03Z"
 }
