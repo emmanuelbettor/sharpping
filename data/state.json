@@ -3,10 +3,10 @@
   "2026-10-15": 14,
   "2026-10-16": 1,
   "2026-10-17": 11,
-  "2026-10-18": 7
+  "2026-10-18": 8
  },
- "last_poll": "2026-10-18T07:41:43Z",
- "remaining": 376,
+ "last_poll": "2026-10-18T08:42:52Z",
+ "remaining": 375,
  "alerted": {},
  "snap": {
   "57418b2cf5aca558b3c98eafac1e264a": {
@@ -86,8 +86,8 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Atlanta Falcons": 1.95,
-     "Chicago Bears": 1.87
+     "Atlanta Falcons": 2.0,
+     "Chicago Bears": 1.83
     }
    },
    "pinnacle": {
@@ -162,8 +162,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Carolina Panthers": 1.58,
-     "Philadelphia Eagles": 2.44
+     "Carolina Panthers": 1.57,
+     "Philadelphia Eagles": 2.46
     }
    },
    "betonlineag": {
@@ -181,7 +181,7 @@
    "betmgm": {
     "h2h": {
      "Carolina Panthers": 1.57,
-     "Philadelphia Eagles": 2.45
+     "Philadelphia Eagles": 2.5
     }
    },
    "pinnacle": {
@@ -249,7 +249,7 @@
    "hardrockbet": {
     "h2h": {
      "Indianapolis Colts": 1.29,
-     "Tennessee Titans": 3.75
+     "Tennessee Titans": 3.6
     }
    }
   },
@@ -292,14 +292,14 @@
    },
    "bovada": {
     "h2h": {
-     "New England Patriots": 1.26,
-     "New York Jets": 3.9
+     "New England Patriots": 1.27,
+     "New York Jets": 3.85
     }
    },
    "hardrockbet": {
     "h2h": {
-     "New England Patriots": 1.27,
-     "New York Jets": 4.0
+     "New England Patriots": 1.29,
+     "New York Jets": 3.75
     }
    }
   },
@@ -392,8 +392,8 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Pittsburgh Steelers": 1.69,
-     "Tampa Bay Buccaneers": 2.25
+     "Pittsburgh Steelers": 1.67,
+     "Tampa Bay Buccaneers": 2.3
     }
    }
   },
@@ -430,8 +430,8 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Arizona Cardinals": 6.75,
-     "Los Angeles Rams": 1.11
+     "Arizona Cardinals": 6.5,
+     "Los Angeles Rams": 1.12
     }
    },
    "pinnacle": {
@@ -481,7 +481,7 @@
    "hardrockbet": {
     "h2h": {
      "Buffalo Bills": 1.4,
-     "Las Vegas Raiders": 3.1
+     "Las Vegas Raiders": 3.0
     }
    },
    "pinnacle": {
@@ -598,5 +598,5 @@
    }
   }
  },
- "snap_ts": "2026-10-18T07:41:43Z"
+ "snap_ts": "2026-10-18T08:42:52Z"
 }
