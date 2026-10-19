@@ -3,10 +3,10 @@
   "2026-10-16": 1,
   "2026-10-17": 11,
   "2026-10-18": 14,
-  "2026-10-19": 5
+  "2026-10-19": 6
  },
- "last_poll": "2026-10-19T05:09:23Z",
- "remaining": 364,
+ "last_poll": "2026-10-19T06:16:12Z",
+ "remaining": 363,
  "alerted": {},
  "snap": {
   "f122527f003276d3bca19efa48c902c1": {
@@ -42,14 +42,14 @@
    },
    "pinnacle": {
     "h2h": {
-     "San Francisco 49ers": 1.23,
-     "Washington Commanders": 4.43
+     "San Francisco 49ers": 1.24,
+     "Washington Commanders": 4.4
     }
    },
    "bovada": {
     "h2h": {
-     "San Francisco 49ers": 1.22,
-     "Washington Commanders": 4.35
+     "San Francisco 49ers": 1.23,
+     "Washington Commanders": 4.3
     }
    },
    "hardrockbet": {
@@ -60,5 +60,5 @@
    }
   }
  },
- "snap_ts": "2026-10-19T05:09:23Z"
+ "snap_ts": "2026-10-19T06:16:12Z"
 }
