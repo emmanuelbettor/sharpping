@@ -3,17 +3,17 @@
   "2026-10-16": 1,
   "2026-10-17": 11,
   "2026-10-18": 14,
-  "2026-10-19": 12
+  "2026-10-19": 13
  },
- "last_poll": "2026-10-19T12:33:31Z",
- "remaining": 357,
+ "last_poll": "2026-10-19T13:26:05Z",
+ "remaining": 356,
  "alerted": {},
  "snap": {
   "f122527f003276d3bca19efa48c902c1": {
    "draftkings": {
     "h2h": {
      "San Francisco 49ers": 1.24,
-     "Washington Commanders": 4.2
+     "Washington Commanders": 4.3
     }
    },
    "fanduel": {
@@ -36,8 +36,14 @@
    },
    "betmgm": {
     "h2h": {
+     "San Francisco 49ers": 1.22,
+     "Washington Commanders": 4.5
+    }
+   },
+   "pinnacle": {
+    "h2h": {
      "San Francisco 49ers": 1.24,
-     "Washington Commanders": 4.33
+     "Washington Commanders": 4.45
     }
    },
    "bovada": {
@@ -54,5 +60,5 @@
    }
   }
  },
- "snap_ts": "2026-10-19T12:33:31Z"
+ "snap_ts": "2026-10-19T13:26:05Z"
 }
