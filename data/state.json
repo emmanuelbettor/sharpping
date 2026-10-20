@@ -1,12 +1,12 @@
 {
  "calls": {
-  "2026-10-16": 1,
   "2026-10-17": 11,
   "2026-10-18": 14,
-  "2026-10-19": 14
+  "2026-10-19": 14,
+  "2026-10-20": 1
  },
- "last_poll": "2026-10-19T14:13:03Z",
- "remaining": 355,
+ "last_poll": "2026-10-20T00:06:34Z",
+ "remaining": 354,
  "alerted": {},
  "snap": {
   "f122527f003276d3bca19efa48c902c1": {
@@ -18,47 +18,47 @@
    },
    "fanduel": {
     "h2h": {
-     "San Francisco 49ers": 1.22,
-     "Washington Commanders": 4.5
+     "San Francisco 49ers": 1.26,
+     "Washington Commanders": 4.1
     }
    },
    "betonlineag": {
     "h2h": {
-     "San Francisco 49ers": 1.23,
-     "Washington Commanders": 4.37
+     "San Francisco 49ers": 1.29,
+     "Washington Commanders": 3.8
     }
    },
    "betrivers": {
     "h2h": {
-     "San Francisco 49ers": 1.22,
-     "Washington Commanders": 4.25
+     "San Francisco 49ers": 1.24,
+     "Washington Commanders": 4.2
     }
    },
    "betmgm": {
     "h2h": {
-     "San Francisco 49ers": 1.24,
-     "Washington Commanders": 4.33
+     "San Francisco 49ers": 1.27,
+     "Washington Commanders": 3.9
     }
    },
    "pinnacle": {
     "h2h": {
-     "San Francisco 49ers": 1.24,
-     "Washington Commanders": 4.45
+     "San Francisco 49ers": 1.29,
+     "Washington Commanders": 3.88
     }
    },
    "bovada": {
     "h2h": {
-     "San Francisco 49ers": 1.23,
-     "Washington Commanders": 4.3
+     "San Francisco 49ers": 1.28,
+     "Washington Commanders": 3.8
     }
    },
    "hardrockbet": {
     "h2h": {
-     "San Francisco 49ers": 1.24,
-     "Washington Commanders": 4.25
+     "San Francisco 49ers": 1.25,
+     "Washington Commanders": 4.0
     }
    }
   }
  },
- "snap_ts": "2026-10-19T14:13:03Z"
+ "snap_ts": "2026-10-20T00:06:34Z"
 }
