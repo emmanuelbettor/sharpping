@@ -1,62 +1,63 @@
 {
  "calls": {
   "2026-10-19": 14,
-  "2026-10-20": 1
+  "2026-10-20": 1,
+  "2026-10-22": 1
  },
- "last_poll": "2026-10-20T00:06:34Z",
- "remaining": 354,
+ "last_poll": "2026-10-22T00:56:36Z",
+ "remaining": 353,
  "alerted": {},
  "snap": {
-  "f122527f003276d3bca19efa48c902c1": {
+  "ffebea881c1d7b2dfb85b3e590c35985": {
    "draftkings": {
     "h2h": {
-     "San Francisco 49ers": 1.24,
-     "Washington Commanders": 4.2
+     "Chicago Bears": 1.65,
+     "New England Patriots": 2.3
     }
    },
    "fanduel": {
     "h2h": {
-     "San Francisco 49ers": 1.26,
-     "Washington Commanders": 4.1
+     "Chicago Bears": 1.64,
+     "New England Patriots": 2.32
     }
    },
    "betonlineag": {
     "h2h": {
-     "San Francisco 49ers": 1.29,
-     "Washington Commanders": 3.8
+     "Chicago Bears": 1.62,
+     "New England Patriots": 2.41
     }
    },
    "betrivers": {
     "h2h": {
-     "San Francisco 49ers": 1.24,
-     "Washington Commanders": 4.2
+     "Chicago Bears": 1.64,
+     "New England Patriots": 2.28
     }
    },
    "betmgm": {
     "h2h": {
-     "San Francisco 49ers": 1.27,
-     "Washington Commanders": 3.9
+     "Chicago Bears": 1.62,
+     "New England Patriots": 2.3
     }
    },
    "pinnacle": {
     "h2h": {
-     "San Francisco 49ers": 1.29,
-     "Washington Commanders": 3.88
+     "Chicago Bears": 1.61,
+     "New England Patriots": 2.44
     }
    },
    "bovada": {
     "h2h": {
-     "San Francisco 49ers": 1.28,
-     "Washington Commanders": 3.8
+     "Chicago Bears": 1.61,
+     "New England Patriots": 2.4
     }
    },
    "hardrockbet": {
     "h2h": {
-     "San Francisco 49ers": 1.25,
-     "Washington Commanders": 4.0
+     "Chicago Bears": 1.62,
+     "New England Patriots": 2.35
     }
    }
   }
  },
- "snap_ts": "2026-10-20T00:06:34Z"
+ "snap_ts": "2026-10-22T00:56:36Z"
 }
