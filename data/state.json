@@ -1,11 +1,11 @@
 {
  "calls": {
-  "2026-10-19": 14,
   "2026-10-20": 1,
-  "2026-10-22": 14
+  "2026-10-22": 14,
+  "2026-10-23": 1
  },
- "last_poll": "2026-10-22T16:15:43Z",
- "remaining": 340,
+ "last_poll": "2026-10-23T00:07:44Z",
+ "remaining": 339,
  "alerted": {},
  "snap": {
   "ffebea881c1d7b2dfb85b3e590c35985": {
@@ -23,26 +23,26 @@
    },
    "betonlineag": {
     "h2h": {
-     "Chicago Bears": 1.62,
-     "New England Patriots": 2.4
+     "Chicago Bears": 1.65,
+     "New England Patriots": 2.34
     }
    },
    "betrivers": {
     "h2h": {
-     "Chicago Bears": 1.63,
-     "New England Patriots": 2.28
+     "Chicago Bears": 1.66,
+     "New England Patriots": 2.23
     }
    },
    "betmgm": {
     "h2h": {
-     "Chicago Bears": 1.62,
+     "Chicago Bears": 1.65,
      "New England Patriots": 2.3
     }
    },
    "pinnacle": {
     "h2h": {
-     "Chicago Bears": 1.64,
-     "New England Patriots": 2.41
+     "Chicago Bears": 1.65,
+     "New England Patriots": 2.38
     }
    },
    "bovada": {
@@ -53,11 +53,11 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Chicago Bears": 1.62,
+     "Chicago Bears": 1.61,
      "New England Patriots": 2.35
     }
    }
   }
  },
- "snap_ts": "2026-10-22T16:15:43Z"
+ "snap_ts": "2026-10-23T00:07:44Z"
 }
