@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-22": 14,
   "2026-10-23": 1,
-  "2026-10-24": 7
+  "2026-10-24": 8
  },
- "last_poll": "2026-10-24T19:52:30Z",
- "remaining": 332,
+ "last_poll": "2026-10-24T20:54:13Z",
+ "remaining": 331,
  "alerted": {},
  "snap": {
   "2e710ea5a306b614f0f966e3d78732f8": {
@@ -79,8 +79,8 @@
    },
    "betmgm": {
     "h2h": {
-     "Atlanta Falcons": 2.25,
-     "San Francisco 49ers": 1.67
+     "Atlanta Falcons": 2.2,
+     "San Francisco 49ers": 1.69
     }
    },
    "hardrockbet": {
@@ -91,28 +91,28 @@
    },
    "pinnacle": {
     "h2h": {
-     "Atlanta Falcons": 2.32,
-     "San Francisco 49ers": 1.67
+     "Atlanta Falcons": 2.25,
+     "San Francisco 49ers": 1.7
     }
    }
   },
   "550ec5290f935d311995affbcb0b5c79": {
    "draftkings": {
     "h2h": {
-     "Baltimore Ravens": 2.3,
-     "Cincinnati Bengals": 1.65
+     "Baltimore Ravens": 2.24,
+     "Cincinnati Bengals": 1.68
     }
    },
    "fanduel": {
     "h2h": {
-     "Baltimore Ravens": 2.22,
-     "Cincinnati Bengals": 1.69
+     "Baltimore Ravens": 2.24,
+     "Cincinnati Bengals": 1.68
     }
    },
    "betonlineag": {
     "h2h": {
-     "Baltimore Ravens": 2.2,
-     "Cincinnati Bengals": 1.71
+     "Baltimore Ravens": 2.25,
+     "Cincinnati Bengals": 1.69
     }
    },
    "betrivers": {
@@ -135,8 +135,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Baltimore Ravens": 2.31,
-     "Cincinnati Bengals": 1.68
+     "Baltimore Ravens": 2.32,
+     "Cincinnati Bengals": 1.67
     }
    }
   },
@@ -211,7 +211,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Cleveland Browns": 1.77,
+     "Cleveland Browns": 1.74,
      "Tennessee Titans": 2.1
     }
    },
@@ -359,7 +359,139 @@
      "New York Jets": 1.44
     }
    }
+  },
+  "436119bb3ccdaa6ed7808aa3ebd82b76": {
+   "draftkings": {
+    "h2h": {
+     "Arizona Cardinals": 2.9,
+     "Denver Broncos": 1.43
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Arizona Cardinals": 2.88,
+     "Denver Broncos": 1.44
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Arizona Cardinals": 2.86,
+     "Denver Broncos": 1.45
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Arizona Cardinals": 2.95,
+     "Denver Broncos": 1.4
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Arizona Cardinals": 2.85,
+     "Denver Broncos": 1.44
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Arizona Cardinals": 2.95,
+     "Denver Broncos": 1.44
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Arizona Cardinals": 2.9,
+     "Denver Broncos": 1.43
+    }
+   }
+  },
+  "e8e5715eefb6a9ce64765e9ddf49c0cc": {
+   "draftkings": {
+    "h2h": {
+     "Detroit Lions": 1.56,
+     "Green Bay Packers": 2.5
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Detroit Lions": 1.57,
+     "Green Bay Packers": 2.48
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Detroit Lions": 1.53,
+     "Green Bay Packers": 2.65
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Detroit Lions": 1.54,
+     "Green Bay Packers": 2.5
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Detroit Lions": 1.54,
+     "Green Bay Packers": 2.5
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Detroit Lions": 1.54,
+     "Green Bay Packers": 2.55
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Detroit Lions": 1.52,
+     "Green Bay Packers": 2.69
+    }
+   }
+  },
+  "f7679cf18454e4d88a8f2b990c3f08ac": {
+   "draftkings": {
+    "h2h": {
+     "Las Vegas Raiders": 2.45,
+     "Los Angeles Rams": 1.57
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Las Vegas Raiders": 2.46,
+     "Los Angeles Rams": 1.57
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Las Vegas Raiders": 2.53,
+     "Los Angeles Rams": 1.57
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Las Vegas Raiders": 2.45,
+     "Los Angeles Rams": 1.56
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Las Vegas Raiders": 2.5,
+     "Los Angeles Rams": 1.57
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Las Vegas Raiders": 2.5,
+     "Los Angeles Rams": 1.59
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Las Vegas Raiders": 2.45,
+     "Los Angeles Rams": 1.57
+    }
+   }
   }
  },
- "snap_ts": "2026-10-24T19:52:30Z"
+ "snap_ts": "2026-10-24T20:54:13Z"
 }
