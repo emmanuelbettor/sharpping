@@ -1,62 +1,57 @@
 {
  "calls": {
   "2026-10-22": 14,
-  "2026-10-23": 1
+  "2026-10-23": 1,
+  "2026-10-24": 1
  },
- "last_poll": "2026-10-23T00:07:44Z",
- "remaining": 339,
+ "last_poll": "2026-10-24T13:57:56Z",
+ "remaining": 338,
  "alerted": {},
  "snap": {
-  "ffebea881c1d7b2dfb85b3e590c35985": {
+  "2e710ea5a306b614f0f966e3d78732f8": {
    "draftkings": {
     "h2h": {
-     "Chicago Bears": 1.65,
-     "New England Patriots": 2.3
+     "New Orleans Saints": 2.36,
+     "Pittsburgh Steelers": 1.62
     }
    },
    "fanduel": {
     "h2h": {
-     "Chicago Bears": 1.63,
-     "New England Patriots": 2.34
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Chicago Bears": 1.65,
-     "New England Patriots": 2.34
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Chicago Bears": 1.66,
-     "New England Patriots": 2.23
+     "New Orleans Saints": 2.4,
+     "Pittsburgh Steelers": 1.6
     }
    },
    "betmgm": {
     "h2h": {
-     "Chicago Bears": 1.65,
-     "New England Patriots": 2.3
+     "New Orleans Saints": 2.4,
+     "Pittsburgh Steelers": 1.57
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "New Orleans Saints": 2.48,
+     "Pittsburgh Steelers": 1.6
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "New Orleans Saints": 2.4,
+     "Pittsburgh Steelers": 1.57
     }
    },
    "pinnacle": {
     "h2h": {
-     "Chicago Bears": 1.65,
-     "New England Patriots": 2.38
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Chicago Bears": 1.62,
-     "New England Patriots": 2.35
+     "New Orleans Saints": 2.49,
+     "Pittsburgh Steelers": 1.59
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Chicago Bears": 1.61,
-     "New England Patriots": 2.35
+     "New Orleans Saints": 2.4,
+     "Pittsburgh Steelers": 1.59
     }
    }
   }
  },
- "snap_ts": "2026-10-23T00:07:44Z"
+ "snap_ts": "2026-10-24T13:57:56Z"
 }
