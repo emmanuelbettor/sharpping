@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-22": 14,
   "2026-10-23": 1,
-  "2026-10-24": 8
+  "2026-10-24": 9
  },
- "last_poll": "2026-10-24T20:54:13Z",
- "remaining": 331,
+ "last_poll": "2026-10-24T21:54:35Z",
+ "remaining": 330,
  "alerted": {},
  "snap": {
   "2e710ea5a306b614f0f966e3d78732f8": {
@@ -41,8 +41,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "New Orleans Saints": 2.49,
-     "Pittsburgh Steelers": 1.59
+     "New Orleans Saints": 2.48,
+     "Pittsburgh Steelers": 1.6
     }
    },
    "hardrockbet": {
@@ -91,8 +91,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Atlanta Falcons": 2.25,
-     "San Francisco 49ers": 1.7
+     "Atlanta Falcons": 2.28,
+     "San Francisco 49ers": 1.69
     }
    }
   },
@@ -111,8 +111,8 @@
    },
    "betonlineag": {
     "h2h": {
-     "Baltimore Ravens": 2.25,
-     "Cincinnati Bengals": 1.69
+     "Baltimore Ravens": 2.3,
+     "Cincinnati Bengals": 1.67
     }
    },
    "betrivers": {
@@ -124,7 +124,7 @@
    "betmgm": {
     "h2h": {
      "Baltimore Ravens": 2.25,
-     "Cincinnati Bengals": 1.67
+     "Cincinnati Bengals": 1.69
     }
    },
    "hardrockbet": {
@@ -167,7 +167,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Carolina Panthers": 1.65,
+     "Carolina Panthers": 1.62,
      "Tampa Bay Buccaneers": 2.3
     }
    },
@@ -211,7 +211,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Cleveland Browns": 1.74,
+     "Cleveland Browns": 1.77,
      "Tennessee Titans": 2.1
     }
    },
@@ -305,8 +305,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Indianapolis Colts": 3.43,
-     "Minnesota Vikings": 1.35
+     "Indianapolis Colts": 3.45,
+     "Minnesota Vikings": 1.34
     }
    },
    "hardrockbet": {
@@ -363,8 +363,8 @@
   "436119bb3ccdaa6ed7808aa3ebd82b76": {
    "draftkings": {
     "h2h": {
-     "Arizona Cardinals": 2.9,
-     "Denver Broncos": 1.43
+     "Arizona Cardinals": 2.95,
+     "Denver Broncos": 1.42
     }
    },
    "fanduel": {
@@ -387,7 +387,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Arizona Cardinals": 2.85,
+     "Arizona Cardinals": 2.88,
      "Denver Broncos": 1.44
     }
    },
@@ -493,5 +493,5 @@
    }
   }
  },
- "snap_ts": "2026-10-24T20:54:13Z"
+ "snap_ts": "2026-10-24T21:54:35Z"
 }
