@@ -2,17 +2,17 @@
  "calls": {
   "2026-10-22": 14,
   "2026-10-23": 1,
-  "2026-10-24": 9
+  "2026-10-24": 10
  },
- "last_poll": "2026-10-24T21:54:35Z",
- "remaining": 330,
+ "last_poll": "2026-10-24T22:52:52Z",
+ "remaining": 329,
  "alerted": {},
  "snap": {
   "2e710ea5a306b614f0f966e3d78732f8": {
    "draftkings": {
     "h2h": {
-     "New Orleans Saints": 2.36,
-     "Pittsburgh Steelers": 1.62
+     "New Orleans Saints": 2.42,
+     "Pittsburgh Steelers": 1.59
     }
    },
    "fanduel": {
@@ -105,14 +105,14 @@
    },
    "fanduel": {
     "h2h": {
-     "Baltimore Ravens": 2.24,
-     "Cincinnati Bengals": 1.68
+     "Baltimore Ravens": 2.3,
+     "Cincinnati Bengals": 1.65
     }
    },
    "betonlineag": {
     "h2h": {
-     "Baltimore Ravens": 2.3,
-     "Cincinnati Bengals": 1.67
+     "Baltimore Ravens": 2.35,
+     "Cincinnati Bengals": 1.65
     }
    },
    "betrivers": {
@@ -123,14 +123,14 @@
    },
    "betmgm": {
     "h2h": {
-     "Baltimore Ravens": 2.25,
-     "Cincinnati Bengals": 1.69
+     "Baltimore Ravens": 2.35,
+     "Cincinnati Bengals": 1.62
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Baltimore Ravens": 2.25,
-     "Cincinnati Bengals": 1.69
+     "Baltimore Ravens": 2.3,
+     "Cincinnati Bengals": 1.67
     }
    },
    "pinnacle": {
@@ -173,8 +173,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Carolina Panthers": 1.68,
-     "Tampa Bay Buccaneers": 2.3
+     "Carolina Panthers": 1.65,
+     "Tampa Bay Buccaneers": 2.35
     }
    },
    "hardrockbet": {
@@ -211,7 +211,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Cleveland Browns": 1.77,
+     "Cleveland Browns": 1.74,
      "Tennessee Titans": 2.1
     }
    },
@@ -275,8 +275,8 @@
   "f3992ad4496724baf7dcd1ef58245d6b": {
    "draftkings": {
     "h2h": {
-     "Indianapolis Colts": 3.35,
-     "Minnesota Vikings": 1.34
+     "Indianapolis Colts": 3.5,
+     "Minnesota Vikings": 1.32
     }
    },
    "fanduel": {
@@ -299,8 +299,8 @@
    },
    "betmgm": {
     "h2h": {
-     "Indianapolis Colts": 3.3,
-     "Minnesota Vikings": 1.35
+     "Indianapolis Colts": 3.4,
+     "Minnesota Vikings": 1.34
     }
    },
    "pinnacle": {
@@ -319,8 +319,8 @@
   "be5dd120ca08b43d647b6caa8953500a": {
    "draftkings": {
     "h2h": {
-     "Miami Dolphins": 2.85,
-     "New York Jets": 1.44
+     "Miami Dolphins": 2.8,
+     "New York Jets": 1.46
     }
    },
    "fanduel": {
@@ -331,8 +331,8 @@
    },
    "betonlineag": {
     "h2h": {
-     "Miami Dolphins": 2.85,
-     "New York Jets": 1.46
+     "Miami Dolphins": 2.77,
+     "New York Jets": 1.49
     }
    },
    "betrivers": {
@@ -343,7 +343,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Miami Dolphins": 2.88,
+     "Miami Dolphins": 2.85,
      "New York Jets": 1.44
     }
    },
@@ -363,8 +363,8 @@
   "436119bb3ccdaa6ed7808aa3ebd82b76": {
    "draftkings": {
     "h2h": {
-     "Arizona Cardinals": 2.95,
-     "Denver Broncos": 1.42
+     "Arizona Cardinals": 2.85,
+     "Denver Broncos": 1.44
     }
    },
    "fanduel": {
@@ -387,7 +387,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Arizona Cardinals": 2.88,
+     "Arizona Cardinals": 2.85,
      "Denver Broncos": 1.44
     }
    },
@@ -413,8 +413,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Detroit Lions": 1.57,
-     "Green Bay Packers": 2.48
+     "Detroit Lions": 1.54,
+     "Green Bay Packers": 2.54
     }
    },
    "betonlineag": {
@@ -431,8 +431,8 @@
    },
    "betmgm": {
     "h2h": {
-     "Detroit Lions": 1.54,
-     "Green Bay Packers": 2.5
+     "Detroit Lions": 1.53,
+     "Green Bay Packers": 2.55
     }
    },
    "hardrockbet": {
@@ -493,5 +493,5 @@
    }
   }
  },
- "snap_ts": "2026-10-24T21:54:35Z"
+ "snap_ts": "2026-10-24T22:52:52Z"
 }
