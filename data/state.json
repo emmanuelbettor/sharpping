@@ -2,17 +2,17 @@
  "calls": {
   "2026-10-22": 14,
   "2026-10-23": 1,
-  "2026-10-24": 3
+  "2026-10-24": 4
  },
- "last_poll": "2026-10-24T15:56:15Z",
- "remaining": 336,
+ "last_poll": "2026-10-24T16:57:18Z",
+ "remaining": 335,
  "alerted": {},
  "snap": {
   "2e710ea5a306b614f0f966e3d78732f8": {
    "draftkings": {
     "h2h": {
-     "New Orleans Saints": 2.36,
-     "Pittsburgh Steelers": 1.62
+     "New Orleans Saints": 2.4,
+     "Pittsburgh Steelers": 1.6
     }
    },
    "fanduel": {
@@ -29,8 +29,8 @@
    },
    "betonlineag": {
     "h2h": {
-     "New Orleans Saints": 2.48,
-     "Pittsburgh Steelers": 1.6
+     "New Orleans Saints": 2.49,
+     "Pittsburgh Steelers": 1.59
     }
    },
    "betrivers": {
@@ -53,5 +53,5 @@
    }
   }
  },
- "snap_ts": "2026-10-24T15:56:15Z"
+ "snap_ts": "2026-10-24T16:57:18Z"
 }
