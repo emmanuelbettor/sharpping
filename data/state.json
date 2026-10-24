@@ -2,10 +2,10 @@
  "calls": {
   "2026-10-22": 14,
   "2026-10-23": 1,
-  "2026-10-24": 5
+  "2026-10-24": 6
  },
- "last_poll": "2026-10-24T17:52:56Z",
- "remaining": 334,
+ "last_poll": "2026-10-24T18:59:20Z",
+ "remaining": 333,
  "alerted": {},
  "snap": {
   "2e710ea5a306b614f0f966e3d78732f8": {
@@ -91,7 +91,7 @@
    },
    "pinnacle": {
     "h2h": {
-     "Atlanta Falcons": 2.31,
+     "Atlanta Falcons": 2.3,
      "San Francisco 49ers": 1.68
     }
    }
@@ -199,8 +199,8 @@
    },
    "betrivers": {
     "h2h": {
-     "Cleveland Browns": 1.68,
-     "Tennessee Titans": 2.17
+     "Cleveland Browns": 1.77,
+     "Tennessee Titans": 2.06
     }
    },
    "betmgm": {
@@ -349,5 +349,5 @@
    }
   }
  },
- "snap_ts": "2026-10-24T17:52:56Z"
+ "snap_ts": "2026-10-24T18:59:20Z"
 }
