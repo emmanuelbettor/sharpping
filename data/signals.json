@@ -25,8 +25,8 @@
   ],
   "news": false,
   "ref_book": "pinnacle",
-  "close_fair": 0.2092,
-  "clv": 0.0459,
+  "close_fair": 0.2153,
+  "clv": 0.0764,
   "frozen": false
  },
  {
@@ -55,8 +55,8 @@
   ],
   "news": false,
   "ref_book": "pinnacle",
-  "close_fair": 0.2092,
-  "clv": 0.0145,
+  "close_fair": 0.2153,
+  "clv": 0.0441,
   "frozen": false
  },
  {
@@ -85,8 +85,8 @@
   ],
   "news": false,
   "ref_book": "pinnacle",
-  "close_fair": 0.2092,
-  "clv": -0.0064,
+  "close_fair": 0.2153,
+  "clv": 0.0226,
   "frozen": false
  },
  {
@@ -115,8 +115,8 @@
   ],
   "news": false,
   "ref_book": "pinnacle",
-  "close_fair": 0.2092,
-  "clv": -0.0085,
+  "close_fair": 0.2153,
+  "clv": 0.0204,
   "frozen": false
  },
  {
@@ -144,8 +144,8 @@
   ],
   "news": false,
   "ref_book": "pinnacle",
-  "close_fair": 0.2092,
-  "clv": 0.025,
+  "close_fair": 0.2153,
+  "clv": 0.0549,
   "frozen": false
  }
 ]
