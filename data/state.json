@@ -3,10 +3,10 @@
   "2026-10-22": 14,
   "2026-10-23": 1,
   "2026-10-24": 11,
-  "2026-10-25": 6
+  "2026-10-25": 7
  },
- "last_poll": "2026-10-25T07:15:09Z",
- "remaining": 322,
+ "last_poll": "2026-10-25T08:30:49Z",
+ "remaining": 321,
  "alerted": {},
  "snap": {
   "2e710ea5a306b614f0f966e3d78732f8": {
@@ -24,7 +24,7 @@
    },
    "betmgm": {
     "h2h": {
-     "New Orleans Saints": 2.38,
+     "New Orleans Saints": 2.35,
      "Pittsburgh Steelers": 1.61
     }
    },
@@ -230,7 +230,7 @@
    },
    "betrivers": {
     "h2h": {
-     "Cleveland Browns": 1.79,
+     "Cleveland Browns": 1.8,
      "Tennessee Titans": 2.02
     }
    },
@@ -386,8 +386,8 @@
    },
    "betmgm": {
     "h2h": {
-     "Miami Dolphins": 2.75,
-     "New York Jets": 1.48
+     "Miami Dolphins": 2.8,
+     "New York Jets": 1.45
     }
    },
    "pinnacle": {
@@ -442,8 +442,8 @@
    },
    "pinnacle": {
     "h2h": {
-     "Arizona Cardinals": 2.85,
-     "Denver Broncos": 1.47
+     "Arizona Cardinals": 2.87,
+     "Denver Broncos": 1.46
     }
    },
    "hardrockbet": {
@@ -454,8 +454,8 @@
    },
    "bovada": {
     "h2h": {
-     "Arizona Cardinals": 2.8,
-     "Denver Broncos": 1.45
+     "Arizona Cardinals": 2.85,
+     "Denver Broncos": 1.44
     }
    }
   },
@@ -536,7 +536,7 @@
    },
    "betmgm": {
     "h2h": {
-     "Las Vegas Raiders": 2.5,
+     "Las Vegas Raiders": 2.45,
      "Los Angeles Rams": 1.57
     }
    },
@@ -610,5 +610,5 @@
    }
   }
  },
- "snap_ts": "2026-10-25T07:15:09Z"
+ "snap_ts": "2026-10-25T08:30:49Z"
 }
