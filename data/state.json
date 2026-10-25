@@ -3,10 +3,10 @@
   "2026-10-22": 14,
   "2026-10-23": 1,
   "2026-10-24": 11,
-  "2026-10-25": 8
+  "2026-10-25": 9
  },
- "last_poll": "2026-10-25T09:43:38Z",
- "remaining": 320,
+ "last_poll": "2026-10-25T10:43:15Z",
+ "remaining": 319,
  "alerted": {},
  "snap": {
   "2e710ea5a306b614f0f966e3d78732f8": {
@@ -24,8 +24,8 @@
    },
    "betmgm": {
     "h2h": {
-     "New Orleans Saints": 2.35,
-     "Pittsburgh Steelers": 1.62
+     "New Orleans Saints": 2.38,
+     "Pittsburgh Steelers": 1.61
     }
    },
    "betonlineag": {
@@ -54,8 +54,8 @@
    },
    "bovada": {
     "h2h": {
-     "New Orleans Saints": 2.35,
-     "Pittsburgh Steelers": 1.62
+     "New Orleans Saints": 2.4,
+     "Pittsburgh Steelers": 1.61
     }
    }
   },
@@ -92,8 +92,8 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Atlanta Falcons": 2.35,
-     "San Francisco 49ers": 1.65
+     "Atlanta Falcons": 2.3,
+     "San Francisco 49ers": 1.67
     }
    },
    "pinnacle": {
@@ -198,7 +198,7 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Carolina Panthers": 1.65,
+     "Carolina Panthers": 1.62,
      "Tampa Bay Buccaneers": 2.35
     }
    },
@@ -242,14 +242,14 @@
    },
    "pinnacle": {
     "h2h": {
-     "Cleveland Browns": 1.79,
-     "Tennessee Titans": 2.13
+     "Cleveland Browns": 1.78,
+     "Tennessee Titans": 2.14
     }
    },
    "hardrockbet": {
     "h2h": {
      "Cleveland Browns": 1.74,
-     "Tennessee Titans": 2.1
+     "Tennessee Titans": 2.15
     }
    },
    "bovada": {
@@ -263,7 +263,7 @@
    "draftkings": {
     "h2h": {
      "Houston Texans": 1.19,
-     "New York Giants": 5.0
+     "New York Giants": 4.9
     }
    },
    "fanduel": {
@@ -348,7 +348,7 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Indianapolis Colts": 3.5,
+     "Indianapolis Colts": 3.6,
      "Minnesota Vikings": 1.31
     }
    },
@@ -368,8 +368,8 @@
    },
    "fanduel": {
     "h2h": {
-     "Miami Dolphins": 2.8,
-     "New York Jets": 1.48
+     "Miami Dolphins": 2.6,
+     "New York Jets": 1.53
     }
    },
    "betonlineag": {
@@ -386,20 +386,20 @@
    },
    "betmgm": {
     "h2h": {
-     "Miami Dolphins": 2.8,
-     "New York Jets": 1.45
+     "Miami Dolphins": 2.7,
+     "New York Jets": 1.48
     }
    },
    "pinnacle": {
     "h2h": {
      "Miami Dolphins": 2.82,
-     "New York Jets": 1.47
+     "New York Jets": 1.48
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Miami Dolphins": 2.8,
-     "New York Jets": 1.45
+     "Miami Dolphins": 2.7,
+     "New York Jets": 1.48
     }
    },
    "bovada": {
@@ -448,7 +448,7 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Arizona Cardinals": 3.0,
+     "Arizona Cardinals": 2.95,
      "Denver Broncos": 1.42
     }
    },
@@ -548,7 +548,7 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Las Vegas Raiders": 2.45,
+     "Las Vegas Raiders": 2.5,
      "Los Angeles Rams": 1.57
     }
    },
@@ -610,5 +610,5 @@
    }
   }
  },
- "snap_ts": "2026-10-25T09:43:38Z"
+ "snap_ts": "2026-10-25T10:43:15Z"
 }
