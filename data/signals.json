@@ -27,7 +27,7 @@
   "ref_book": "pinnacle",
   "close_fair": 0.2153,
   "clv": 0.0764,
-  "frozen": false
+  "frozen": true
  },
  {
   "id": "2bba7fde6f97d0e54403d53676e4ab63|h2h|New York Giants|fanduel",
@@ -57,7 +57,7 @@
   "ref_book": "pinnacle",
   "close_fair": 0.2153,
   "clv": 0.0441,
-  "frozen": false
+  "frozen": true
  },
  {
   "id": "2bba7fde6f97d0e54403d53676e4ab63|h2h|New York Giants|hardrockbet",
@@ -87,7 +87,7 @@
   "ref_book": "pinnacle",
   "close_fair": 0.2153,
   "clv": 0.0226,
-  "frozen": false
+  "frozen": true
  },
  {
   "id": "2bba7fde6f97d0e54403d53676e4ab63|h2h|New York Giants|betonlineag",
@@ -117,7 +117,7 @@
   "ref_book": "pinnacle",
   "close_fair": 0.2153,
   "clv": 0.0204,
-  "frozen": false
+  "frozen": true
  },
  {
   "id": "2bba7fde6f97d0e54403d53676e4ab63|h2h|New York Giants|betrivers",
@@ -146,6 +146,6 @@
   "ref_book": "pinnacle",
   "close_fair": 0.2153,
   "clv": 0.0549,
-  "frozen": false
+  "frozen": true
  }
 ]
