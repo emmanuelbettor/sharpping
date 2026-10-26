@@ -3,32 +3,11 @@
   "2026-10-23": 1,
   "2026-10-24": 11,
   "2026-10-25": 14,
-  "2026-10-26": 12
+  "2026-10-26": 13
  },
- "last_poll": "2026-10-26T11:41:51Z",
- "remaining": 302,
- "alerted": {
-  "2bba7fde6f97d0e54403d53676e4ab63|h2h|New York Giants|draftkings": {
-   "ts": "2026-10-25T13:58:05Z",
-   "price": 5.0
-  },
-  "2bba7fde6f97d0e54403d53676e4ab63|h2h|New York Giants|fanduel": {
-   "ts": "2026-10-25T13:58:05Z",
-   "price": 4.85
-  },
-  "2bba7fde6f97d0e54403d53676e4ab63|h2h|New York Giants|hardrockbet": {
-   "ts": "2026-10-25T13:58:05Z",
-   "price": 4.75
-  },
-  "2bba7fde6f97d0e54403d53676e4ab63|h2h|New York Giants|betonlineag": {
-   "ts": "2026-10-25T13:58:05Z",
-   "price": 4.74
-  },
-  "2bba7fde6f97d0e54403d53676e4ab63|h2h|New York Giants|betrivers": {
-   "ts": "2026-10-25T13:58:05Z",
-   "price": 4.9
-  }
- },
+ "last_poll": "2026-10-26T14:07:08Z",
+ "remaining": 301,
+ "alerted": {},
  "snap": {
   "4853610e63c246f2027a6a248e642c9a": {
    "draftkings": {
@@ -57,29 +36,29 @@
    },
    "betmgm": {
     "h2h": {
-     "Dallas Cowboys": 1.44,
-     "Philadelphia Eagles": 2.85
+     "Dallas Cowboys": 1.45,
+     "Philadelphia Eagles": 2.8
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Dallas Cowboys": 1.44,
+     "Dallas Cowboys": 1.45,
      "Philadelphia Eagles": 2.85
     }
    },
    "pinnacle": {
     "h2h": {
-     "Dallas Cowboys": 1.47,
-     "Philadelphia Eagles": 2.83
+     "Dallas Cowboys": 1.48,
+     "Philadelphia Eagles": 2.86
     }
    },
    "bovada": {
     "h2h": {
-     "Dallas Cowboys": 1.45,
-     "Philadelphia Eagles": 2.8
+     "Dallas Cowboys": 1.44,
+     "Philadelphia Eagles": 2.85
     }
    }
   }
  },
- "snap_ts": "2026-10-26T11:41:51Z"
+ "snap_ts": "2026-10-26T14:07:08Z"
 }
