@@ -3,10 +3,10 @@
   "2026-10-23": 1,
   "2026-10-24": 11,
   "2026-10-25": 14,
-  "2026-10-26": 13
+  "2026-10-26": 14
  },
- "last_poll": "2026-10-26T14:07:08Z",
- "remaining": 301,
+ "last_poll": "2026-10-26T15:41:56Z",
+ "remaining": 300,
  "alerted": {},
  "snap": {
   "4853610e63c246f2027a6a248e642c9a": {
@@ -18,14 +18,14 @@
    },
    "fanduel": {
     "h2h": {
-     "Dallas Cowboys": 1.45,
-     "Philadelphia Eagles": 2.84
+     "Dallas Cowboys": 1.48,
+     "Philadelphia Eagles": 2.76
     }
    },
    "betonlineag": {
     "h2h": {
-     "Dallas Cowboys": 1.43,
-     "Philadelphia Eagles": 2.92
+     "Dallas Cowboys": 1.44,
+     "Philadelphia Eagles": 2.89
     }
    },
    "betrivers": {
@@ -43,7 +43,7 @@
    "hardrockbet": {
     "h2h": {
      "Dallas Cowboys": 1.45,
-     "Philadelphia Eagles": 2.85
+     "Philadelphia Eagles": 2.8
     }
    },
    "pinnacle": {
@@ -60,5 +60,5 @@
    }
   }
  },
- "snap_ts": "2026-10-26T14:07:08Z"
+ "snap_ts": "2026-10-26T15:41:56Z"
 }
