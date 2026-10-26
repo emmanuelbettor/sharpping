@@ -3,10 +3,10 @@
   "2026-10-23": 1,
   "2026-10-24": 11,
   "2026-10-25": 14,
-  "2026-10-26": 10
+  "2026-10-26": 11
  },
- "last_poll": "2026-10-26T09:17:28Z",
- "remaining": 304,
+ "last_poll": "2026-10-26T10:14:41Z",
+ "remaining": 303,
  "alerted": {
   "2bba7fde6f97d0e54403d53676e4ab63|h2h|New York Giants|draftkings": {
    "ts": "2026-10-25T13:58:05Z",
@@ -63,8 +63,8 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Dallas Cowboys": 1.43,
-     "Philadelphia Eagles": 2.9
+     "Dallas Cowboys": 1.44,
+     "Philadelphia Eagles": 2.85
     }
    },
    "pinnacle": {
@@ -81,5 +81,5 @@
    }
   }
  },
- "snap_ts": "2026-10-26T09:17:28Z"
+ "snap_ts": "2026-10-26T10:14:41Z"
 }
