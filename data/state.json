@@ -3,10 +3,10 @@
   "2026-10-23": 1,
   "2026-10-24": 11,
   "2026-10-25": 14,
-  "2026-10-26": 1
+  "2026-10-26": 2
  },
- "last_poll": "2026-10-26T00:01:42Z",
- "remaining": 313,
+ "last_poll": "2026-10-26T01:07:57Z",
+ "remaining": 312,
  "alerted": {
   "2bba7fde6f97d0e54403d53676e4ab63|h2h|New York Giants|draftkings": {
    "ts": "2026-10-25T13:58:05Z",
@@ -30,56 +30,56 @@
   }
  },
  "snap": {
-  "176d474ed8b2bbf1eb4d7e9c56b4bf22": {
+  "4853610e63c246f2027a6a248e642c9a": {
    "draftkings": {
     "h2h": {
-     "Kansas City Chiefs": 2.36,
-     "Seattle Seahawks": 1.62
+     "Dallas Cowboys": 1.44,
+     "Philadelphia Eagles": 2.85
     }
    },
    "fanduel": {
     "h2h": {
-     "Kansas City Chiefs": 2.38,
-     "Seattle Seahawks": 1.61
+     "Dallas Cowboys": 1.43,
+     "Philadelphia Eagles": 2.9
     }
    },
    "betonlineag": {
     "h2h": {
-     "Kansas City Chiefs": 2.4,
-     "Seattle Seahawks": 1.62
+     "Dallas Cowboys": 1.44,
+     "Philadelphia Eagles": 2.89
     }
    },
    "betrivers": {
     "h2h": {
-     "Kansas City Chiefs": 2.32,
-     "Seattle Seahawks": 1.64
+     "Dallas Cowboys": 1.44,
+     "Philadelphia Eagles": 2.8
     }
    },
    "betmgm": {
     "h2h": {
-     "Kansas City Chiefs": 2.35,
-     "Seattle Seahawks": 1.61
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Kansas City Chiefs": 2.36,
-     "Seattle Seahawks": 1.66
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Kansas City Chiefs": 2.35,
-     "Seattle Seahawks": 1.62
+     "Dallas Cowboys": 1.44,
+     "Philadelphia Eagles": 2.85
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Kansas City Chiefs": 2.3,
-     "Seattle Seahawks": 1.65
+     "Dallas Cowboys": 1.43,
+     "Philadelphia Eagles": 2.9
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Dallas Cowboys": 1.45,
+     "Philadelphia Eagles": 2.91
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Dallas Cowboys": 1.43,
+     "Philadelphia Eagles": 2.9
     }
    }
   }
  },
- "snap_ts": "2026-10-26T00:01:42Z"
+ "snap_ts": "2026-10-26T01:07:57Z"
 }
