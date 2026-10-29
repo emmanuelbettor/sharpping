@@ -1,10 +1,10 @@
 {
  "calls": {
   "2026-10-26": 14,
-  "2026-10-29": 10
+  "2026-10-29": 11
  },
- "last_poll": "2026-10-29T09:04:26Z",
- "remaining": 290,
+ "last_poll": "2026-10-29T09:59:50Z",
+ "remaining": 289,
  "alerted": {},
  "snap": {
   "ab2865e9f2d4b012de8bc6fb6de11a7c": {
@@ -16,7 +16,7 @@
    },
    "fanduel": {
     "h2h": {
-     "Carolina Panthers": 2.66,
+     "Carolina Panthers": 2.64,
      "Green Bay Packers": 1.51
     }
    },
@@ -40,7 +40,7 @@
    },
    "pinnacle": {
     "h2h": {
-     "Carolina Panthers": 2.72,
+     "Carolina Panthers": 2.71,
      "Green Bay Packers": 1.51
     }
    },
@@ -58,5 +58,5 @@
    }
   }
  },
- "snap_ts": "2026-10-29T09:04:26Z"
+ "snap_ts": "2026-10-29T09:59:50Z"
 }
