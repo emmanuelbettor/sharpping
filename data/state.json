@@ -1,62 +1,62 @@
 {
  "calls": {
-  "2026-10-25": 14,
-  "2026-10-26": 14
+  "2026-10-26": 14,
+  "2026-10-29": 1
  },
- "last_poll": "2026-10-26T15:41:56Z",
- "remaining": 300,
+ "last_poll": "2026-10-29T00:39:13Z",
+ "remaining": 299,
  "alerted": {},
  "snap": {
-  "4853610e63c246f2027a6a248e642c9a": {
+  "ab2865e9f2d4b012de8bc6fb6de11a7c": {
    "draftkings": {
     "h2h": {
-     "Dallas Cowboys": 1.49,
-     "Philadelphia Eagles": 2.7
+     "Carolina Panthers": 2.64,
+     "Green Bay Packers": 1.51
     }
    },
    "fanduel": {
     "h2h": {
-     "Dallas Cowboys": 1.48,
-     "Philadelphia Eagles": 2.76
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Dallas Cowboys": 1.44,
-     "Philadelphia Eagles": 2.89
+     "Carolina Panthers": 2.6,
+     "Green Bay Packers": 1.53
     }
    },
    "betrivers": {
     "h2h": {
-     "Dallas Cowboys": 1.44,
-     "Philadelphia Eagles": 2.8
+     "Carolina Panthers": 2.6,
+     "Green Bay Packers": 1.51
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Carolina Panthers": 2.77,
+     "Green Bay Packers": 1.49
     }
    },
    "betmgm": {
     "h2h": {
-     "Dallas Cowboys": 1.45,
-     "Philadelphia Eagles": 2.8
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Dallas Cowboys": 1.45,
-     "Philadelphia Eagles": 2.8
+     "Carolina Panthers": 2.65,
+     "Green Bay Packers": 1.5
     }
    },
    "pinnacle": {
     "h2h": {
-     "Dallas Cowboys": 1.48,
-     "Philadelphia Eagles": 2.86
+     "Carolina Panthers": 2.71,
+     "Green Bay Packers": 1.51
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Carolina Panthers": 2.6,
+     "Green Bay Packers": 1.51
     }
    },
    "bovada": {
     "h2h": {
-     "Dallas Cowboys": 1.44,
-     "Philadelphia Eagles": 2.85
+     "Carolina Panthers": 2.7,
+     "Green Bay Packers": 1.5
     }
    }
   }
  },
- "snap_ts": "2026-10-26T15:41:56Z"
+ "snap_ts": "2026-10-29T00:39:13Z"
 }
