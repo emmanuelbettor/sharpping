@@ -1,10 +1,10 @@
 {
  "calls": {
   "2026-10-26": 14,
-  "2026-10-29": 12
+  "2026-10-29": 13
  },
- "last_poll": "2026-10-29T10:46:49Z",
- "remaining": 288,
+ "last_poll": "2026-10-29T11:35:39Z",
+ "remaining": 287,
  "alerted": {},
  "snap": {
   "ab2865e9f2d4b012de8bc6fb6de11a7c": {
@@ -28,8 +28,8 @@
    },
    "betonlineag": {
     "h2h": {
-     "Carolina Panthers": 2.77,
-     "Green Bay Packers": 1.49
+     "Carolina Panthers": 2.74,
+     "Green Bay Packers": 1.5
     }
    },
    "betmgm": {
@@ -58,5 +58,5 @@
    }
   }
  },
- "snap_ts": "2026-10-29T10:46:49Z"
+ "snap_ts": "2026-10-29T11:35:39Z"
 }
