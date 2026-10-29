@@ -1,10 +1,10 @@
 {
  "calls": {
   "2026-10-26": 14,
-  "2026-10-29": 6
+  "2026-10-29": 7
  },
- "last_poll": "2026-10-29T05:14:49Z",
- "remaining": 294,
+ "last_poll": "2026-10-29T06:00:15Z",
+ "remaining": 293,
  "alerted": {},
  "snap": {
   "ab2865e9f2d4b012de8bc6fb6de11a7c": {
@@ -46,8 +46,8 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Carolina Panthers": 2.6,
-     "Green Bay Packers": 1.51
+     "Carolina Panthers": 2.65,
+     "Green Bay Packers": 1.5
     }
    },
    "bovada": {
@@ -58,5 +58,5 @@
    }
   }
  },
- "snap_ts": "2026-10-29T05:14:49Z"
+ "snap_ts": "2026-10-29T06:00:15Z"
 }
