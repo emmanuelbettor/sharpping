@@ -1,61 +1,406 @@
 {
  "calls": {
-  "2026-10-29": 14
+  "2026-10-29": 14,
+  "2026-10-31": 1
  },
- "last_poll": "2026-10-29T12:20:41Z",
- "remaining": 286,
+ "last_poll": "2026-10-31T18:46:54Z",
+ "remaining": 285,
  "alerted": {},
  "snap": {
-  "ab2865e9f2d4b012de8bc6fb6de11a7c": {
+  "9255ca8f32aea590d00aa57de79f6bb6": {
    "draftkings": {
     "h2h": {
-     "Carolina Panthers": 2.6,
-     "Green Bay Packers": 1.52
+     "Arizona Cardinals": 3.5,
+     "Dallas Cowboys": 1.32
     }
    },
    "fanduel": {
     "h2h": {
-     "Carolina Panthers": 2.64,
-     "Green Bay Packers": 1.51
+     "Arizona Cardinals": 3.7,
+     "Dallas Cowboys": 1.3
     }
    },
    "betrivers": {
     "h2h": {
-     "Carolina Panthers": 2.6,
-     "Green Bay Packers": 1.51
+     "Arizona Cardinals": 3.75,
+     "Dallas Cowboys": 1.27
     }
    },
    "betonlineag": {
     "h2h": {
-     "Carolina Panthers": 2.74,
-     "Green Bay Packers": 1.5
+     "Arizona Cardinals": 3.49,
+     "Dallas Cowboys": 1.33
     }
    },
    "betmgm": {
     "h2h": {
-     "Carolina Panthers": 2.65,
-     "Green Bay Packers": 1.5
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Carolina Panthers": 2.71,
-     "Green Bay Packers": 1.51
+     "Arizona Cardinals": 3.6,
+     "Dallas Cowboys": 1.31
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Carolina Panthers": 2.65,
-     "Green Bay Packers": 1.5
+     "Arizona Cardinals": 3.75,
+     "Dallas Cowboys": 1.29
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Arizona Cardinals": 3.61,
+     "Dallas Cowboys": 1.32
     }
    },
    "bovada": {
     "h2h": {
-     "Carolina Panthers": 2.7,
-     "Green Bay Packers": 1.5
+     "Arizona Cardinals": 3.6,
+     "Dallas Cowboys": 1.31
+    }
+   }
+  },
+  "921859689f5f8b3b8b1caf4248bdb1ec": {
+   "draftkings": {
+    "h2h": {
+     "Atlanta Falcons": 2.14,
+     "Tampa Bay Buccaneers": 1.74
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Atlanta Falcons": 2.1,
+     "Tampa Bay Buccaneers": 1.77
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Atlanta Falcons": 2.15,
+     "Tampa Bay Buccaneers": 1.71
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Atlanta Falcons": 2.2,
+     "Tampa Bay Buccaneers": 1.71
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Atlanta Falcons": 2.15,
+     "Tampa Bay Buccaneers": 1.74
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Atlanta Falcons": 2.1,
+     "Tampa Bay Buccaneers": 1.77
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Atlanta Falcons": 2.17,
+     "Tampa Bay Buccaneers": 1.76
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Atlanta Falcons": 2.15,
+     "Tampa Bay Buccaneers": 1.74
+    }
+   }
+  },
+  "c93c421e5fa46031a43162d111d981d0": {
+   "draftkings": {
+    "h2h": {
+     "Baltimore Ravens": 2.4,
+     "Buffalo Bills": 1.6
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Baltimore Ravens": 2.46,
+     "Buffalo Bills": 1.57
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Baltimore Ravens": 2.4,
+     "Buffalo Bills": 1.57
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Baltimore Ravens": 2.51,
+     "Buffalo Bills": 1.58
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Baltimore Ravens": 2.45,
+     "Buffalo Bills": 1.57
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Baltimore Ravens": 2.5,
+     "Buffalo Bills": 1.57
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Baltimore Ravens": 2.52,
+     "Buffalo Bills": 1.58
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Baltimore Ravens": 2.5,
+     "Buffalo Bills": 1.57
+    }
+   }
+  },
+  "9c5d8f57e0ba0fbd9ef436c1f0898f99": {
+   "draftkings": {
+    "h2h": {
+     "Cincinnati Bengals": 1.15,
+     "Tennessee Titans": 5.9
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Cincinnati Bengals": 1.12,
+     "Tennessee Titans": 6.7
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Cincinnati Bengals": 1.15,
+     "Tennessee Titans": 5.6
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Cincinnati Bengals": 1.14,
+     "Tennessee Titans": 6.05
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Cincinnati Bengals": 1.13,
+     "Tennessee Titans": 6.5
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Cincinnati Bengals": 1.12,
+     "Tennessee Titans": 6.5
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Cincinnati Bengals": 1.12,
+     "Tennessee Titans": 6.81
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Cincinnati Bengals": 1.12,
+     "Tennessee Titans": 6.75
+    }
+   }
+  },
+  "ab5ab731ab655bd6308bc7a922275518": {
+   "draftkings": {
+    "h2h": {
+     "Cleveland Browns": 2.54,
+     "Pittsburgh Steelers": 1.54
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Cleveland Browns": 2.64,
+     "Pittsburgh Steelers": 1.51
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Cleveland Browns": 2.6,
+     "Pittsburgh Steelers": 1.51
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Cleveland Browns": 2.65,
+     "Pittsburgh Steelers": 1.53
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Cleveland Browns": 2.6,
+     "Pittsburgh Steelers": 1.53
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Cleveland Browns": 2.6,
+     "Pittsburgh Steelers": 1.51
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Cleveland Browns": 2.68,
+     "Pittsburgh Steelers": 1.52
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Cleveland Browns": 2.67,
+     "Pittsburgh Steelers": 1.51
+    }
+   }
+  },
+  "52e7ee9c42525e6deec02da32dc2fad8": {
+   "draftkings": {
+    "h2h": {
+     "Detroit Lions": 1.59,
+     "Minnesota Vikings": 2.42
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Detroit Lions": 1.57,
+     "Minnesota Vikings": 2.46
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Detroit Lions": 1.57,
+     "Minnesota Vikings": 2.4
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Detroit Lions": 1.56,
+     "Minnesota Vikings": 2.57
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Detroit Lions": 1.54,
+     "Minnesota Vikings": 2.5
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Detroit Lions": 1.55,
+     "Minnesota Vikings": 2.58
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Detroit Lions": 1.56,
+     "Minnesota Vikings": 2.5
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Detroit Lions": 1.56,
+     "Minnesota Vikings": 2.53
+    }
+   }
+  },
+  "159dbf0253dd2038eda2212f84387f0c": {
+   "draftkings": {
+    "h2h": {
+     "Indianapolis Colts": 4.8,
+     "Jacksonville Jaguars": 1.2
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Indianapolis Colts": 5.1,
+     "Jacksonville Jaguars": 1.19
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Indianapolis Colts": 4.75,
+     "Jacksonville Jaguars": 1.2
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Indianapolis Colts": 4.67,
+     "Jacksonville Jaguars": 1.21
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Indianapolis Colts": 4.8,
+     "Jacksonville Jaguars": 1.2
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Indianapolis Colts": 4.75,
+     "Jacksonville Jaguars": 1.19
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Indianapolis Colts": 4.69,
+     "Jacksonville Jaguars": 1.21
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Indianapolis Colts": 4.65,
+     "Jacksonville Jaguars": 1.21
+    }
+   }
+  },
+  "98f1b121b793977434c046e76c707145": {
+   "draftkings": {
+    "h2h": {
+     "Las Vegas Raiders": 2.02,
+     "New York Jets": 1.82
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Las Vegas Raiders": 2.0,
+     "New York Jets": 1.85
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Las Vegas Raiders": 1.97,
+     "New York Jets": 1.83
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Las Vegas Raiders": 2.0,
+     "New York Jets": 1.83
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Las Vegas Raiders": 2.1,
+     "New York Jets": 1.81
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Las Vegas Raiders": 2.0,
+     "New York Jets": 1.83
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Las Vegas Raiders": 2.07,
+     "New York Jets": 1.79
     }
    }
   }
  },
- "snap_ts": "2026-10-29T12:20:41Z"
+ "snap_ts": "2026-10-31T18:46:54Z"
 }
