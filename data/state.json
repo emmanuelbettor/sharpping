@@ -2,473 +2,73 @@
  "calls": {
   "2026-10-29": 14,
   "2026-10-31": 2,
-  "2026-11-01": 3
+  "2026-11-01": 4
  },
- "last_poll": "2026-11-01T14:51:05Z",
- "remaining": 497,
+ "last_poll": "2026-11-01T19:24:22Z",
+ "remaining": 496,
  "alerted": {},
  "snap": {
-  "9255ca8f32aea590d00aa57de79f6bb6": {
-   "draftkings": {
-    "h2h": {
-     "Arizona Cardinals": 3.6,
-     "Dallas Cowboys": 1.31
-    }
-   },
-   "fanduel": {
-    "h2h": {
-     "Arizona Cardinals": 3.9,
-     "Dallas Cowboys": 1.28
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Arizona Cardinals": 3.75,
-     "Dallas Cowboys": 1.28
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Arizona Cardinals": 3.8,
-     "Dallas Cowboys": 1.29
-    }
-   },
-   "betmgm": {
-    "h2h": {
-     "Arizona Cardinals": 3.7,
-     "Dallas Cowboys": 1.31
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Arizona Cardinals": 3.6,
-     "Dallas Cowboys": 1.29
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Arizona Cardinals": 3.74,
-     "Dallas Cowboys": 1.31
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Arizona Cardinals": 3.65,
-     "Dallas Cowboys": 1.3
-    }
-   }
-  },
-  "921859689f5f8b3b8b1caf4248bdb1ec": {
-   "draftkings": {
-    "h2h": {
-     "Atlanta Falcons": 2.1,
-     "Tampa Bay Buccaneers": 1.77
-    }
-   },
-   "fanduel": {
-    "h2h": {
-     "Atlanta Falcons": 2.1,
-     "Tampa Bay Buccaneers": 1.77
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Atlanta Falcons": 2.1,
-     "Tampa Bay Buccaneers": 1.73
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Atlanta Falcons": 2.1,
-     "Tampa Bay Buccaneers": 1.77
-    }
-   },
-   "betmgm": {
-    "h2h": {
-     "Atlanta Falcons": 2.1,
-     "Tampa Bay Buccaneers": 1.77
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Atlanta Falcons": 2.1,
-     "Tampa Bay Buccaneers": 1.77
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Atlanta Falcons": 2.18,
-     "Tampa Bay Buccaneers": 1.77
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Atlanta Falcons": 2.1,
-     "Tampa Bay Buccaneers": 1.77
-    }
-   }
-  },
-  "c93c421e5fa46031a43162d111d981d0": {
-   "draftkings": {
-    "h2h": {
-     "Baltimore Ravens": 2.4,
-     "Buffalo Bills": 1.6
-    }
-   },
-   "fanduel": {
-    "h2h": {
-     "Baltimore Ravens": 2.48,
-     "Buffalo Bills": 1.57
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Baltimore Ravens": 2.4,
-     "Buffalo Bills": 1.57
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Baltimore Ravens": 2.54,
-     "Buffalo Bills": 1.57
-    }
-   },
-   "betmgm": {
-    "h2h": {
-     "Baltimore Ravens": 2.45,
-     "Buffalo Bills": 1.57
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Baltimore Ravens": 2.5,
-     "Buffalo Bills": 1.57
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Baltimore Ravens": 2.55,
-     "Buffalo Bills": 1.58
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Baltimore Ravens": 2.53,
-     "Buffalo Bills": 1.56
-    }
-   }
-  },
-  "9c5d8f57e0ba0fbd9ef436c1f0898f99": {
-   "draftkings": {
-    "h2h": {
-     "Cincinnati Bengals": 1.12,
-     "Tennessee Titans": 6.75
-    }
-   },
-   "fanduel": {
-    "h2h": {
-     "Cincinnati Bengals": 1.12,
-     "Tennessee Titans": 6.7
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Cincinnati Bengals": 1.15,
-     "Tennessee Titans": 5.6
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Cincinnati Bengals": 1.11,
-     "Tennessee Titans": 7.01
-    }
-   },
-   "betmgm": {
-    "h2h": {
-     "Cincinnati Bengals": 1.12,
-     "Tennessee Titans": 7.0
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Cincinnati Bengals": 1.11,
-     "Tennessee Titans": 6.75
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Cincinnati Bengals": 1.12,
-     "Tennessee Titans": 7.26
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Cincinnati Bengals": 1.11,
-     "Tennessee Titans": 6.75
-    }
-   }
-  },
-  "ab5ab731ab655bd6308bc7a922275518": {
-   "draftkings": {
-    "h2h": {
-     "Cleveland Browns": 2.54,
-     "Pittsburgh Steelers": 1.54
-    }
-   },
-   "fanduel": {
-    "h2h": {
-     "Cleveland Browns": 2.68,
-     "Pittsburgh Steelers": 1.5
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Cleveland Browns": 2.6,
-     "Pittsburgh Steelers": 1.51
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Cleveland Browns": 2.68,
-     "Pittsburgh Steelers": 1.52
-    }
-   },
-   "betmgm": {
-    "h2h": {
-     "Cleveland Browns": 2.65,
-     "Pittsburgh Steelers": 1.5
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Cleveland Browns": 2.65,
-     "Pittsburgh Steelers": 1.51
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Cleveland Browns": 2.76,
-     "Pittsburgh Steelers": 1.51
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Cleveland Browns": 2.72,
-     "Pittsburgh Steelers": 1.49
-    }
-   }
-  },
-  "52e7ee9c42525e6deec02da32dc2fad8": {
-   "draftkings": {
-    "h2h": {
-     "Detroit Lions": 1.59,
-     "Minnesota Vikings": 2.42
-    }
-   },
-   "fanduel": {
-    "h2h": {
-     "Detroit Lions": 1.57,
-     "Minnesota Vikings": 2.48
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Detroit Lions": 1.57,
-     "Minnesota Vikings": 2.4
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Detroit Lions": 1.54,
-     "Minnesota Vikings": 2.61
-    }
-   },
-   "betmgm": {
-    "h2h": {
-     "Detroit Lions": 1.54,
-     "Minnesota Vikings": 2.5
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Detroit Lions": 1.55,
-     "Minnesota Vikings": 2.63
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Detroit Lions": 1.56,
-     "Minnesota Vikings": 2.5
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Detroit Lions": 1.54,
-     "Minnesota Vikings": 2.6
-    }
-   }
-  },
-  "159dbf0253dd2038eda2212f84387f0c": {
-   "draftkings": {
-    "h2h": {
-     "Indianapolis Colts": 4.8,
-     "Jacksonville Jaguars": 1.2
-    }
-   },
-   "fanduel": {
-    "h2h": {
-     "Indianapolis Colts": 5.2,
-     "Jacksonville Jaguars": 1.18
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Indianapolis Colts": 4.75,
-     "Jacksonville Jaguars": 1.2
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Indianapolis Colts": 4.77,
-     "Jacksonville Jaguars": 1.2
-    }
-   },
-   "betmgm": {
-    "h2h": {
-     "Indianapolis Colts": 5.0,
-     "Jacksonville Jaguars": 1.19
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Indianapolis Colts": 4.75,
-     "Jacksonville Jaguars": 1.18
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Indianapolis Colts": 4.92,
-     "Jacksonville Jaguars": 1.21
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Indianapolis Colts": 4.75,
-     "Jacksonville Jaguars": 1.2
-    }
-   }
-  },
-  "98f1b121b793977434c046e76c707145": {
-   "draftkings": {
-    "h2h": {
-     "Las Vegas Raiders": 2.1,
-     "New York Jets": 1.77
-    }
-   },
-   "fanduel": {
-    "h2h": {
-     "Las Vegas Raiders": 2.12,
-     "New York Jets": 1.76
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Las Vegas Raiders": 2.04,
-     "New York Jets": 1.79
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Las Vegas Raiders": 2.11,
-     "New York Jets": 1.76
-    }
-   },
-   "betmgm": {
-    "h2h": {
-     "Las Vegas Raiders": 2.1,
-     "New York Jets": 1.77
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Las Vegas Raiders": 2.13,
-     "New York Jets": 1.8
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Las Vegas Raiders": 2.05,
-     "New York Jets": 1.8
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Las Vegas Raiders": 2.1,
-     "New York Jets": 1.77
-    }
-   }
-  },
   "2ff84d3f6053d083c8c0a5bebf7cdd4c": {
    "draftkings": {
-    "h2h": {
-     "Los Angeles Chargers": 3.2,
-     "Los Angeles Rams": 1.37
-    }
-   },
-   "fanduel": {
-    "h2h": {
-     "Los Angeles Chargers": 3.25,
-     "Los Angeles Rams": 1.36
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Los Angeles Chargers": 3.35,
-     "Los Angeles Rams": 1.34
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Los Angeles Chargers": 3.38,
-     "Los Angeles Rams": 1.34
-    }
-   },
-   "betmgm": {
     "h2h": {
      "Los Angeles Chargers": 3.3,
      "Los Angeles Rams": 1.35
     }
    },
-   "pinnacle": {
+   "fanduel": {
+    "h2h": {
+     "Los Angeles Chargers": 3.35,
+     "Los Angeles Rams": 1.34
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Los Angeles Chargers": 3.35,
+     "Los Angeles Rams": 1.33
+    }
+   },
+   "betonlineag": {
     "h2h": {
      "Los Angeles Chargers": 3.56,
-     "Los Angeles Rams": 1.34
+     "Los Angeles Rams": 1.32
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Los Angeles Chargers": 3.4,
+     "Los Angeles Rams": 1.33
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Los Angeles Chargers": 3.59,
+     "Los Angeles Rams": 1.33
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Los Angeles Chargers": 3.3,
+     "Los Angeles Chargers": 3.5,
      "Los Angeles Rams": 1.33
     }
    },
    "bovada": {
     "h2h": {
-     "Los Angeles Chargers": 3.5,
-     "Los Angeles Rams": 1.33
+     "Los Angeles Chargers": 3.55,
+     "Los Angeles Rams": 1.32
     }
    }
   },
   "f2a036d5edf483a277880014861e78ad": {
    "draftkings": {
     "h2h": {
-     "Denver Broncos": 1.95,
-     "Kansas City Chiefs": 1.87
+     "Denver Broncos": 1.93,
+     "Kansas City Chiefs": 1.89
     }
    },
    "fanduel": {
     "h2h": {
-     "Denver Broncos": 1.98,
-     "Kansas City Chiefs": 1.86
+     "Denver Broncos": 1.96,
+     "Kansas City Chiefs": 1.89
     }
    },
    "betrivers": {
@@ -477,16 +77,10 @@
      "Kansas City Chiefs": 1.85
     }
    },
-   "betonlineag": {
-    "h2h": {
-     "Denver Broncos": 1.95,
-     "Kansas City Chiefs": 1.87
-    }
-   },
    "betmgm": {
     "h2h": {
      "Denver Broncos": 1.95,
-     "Kansas City Chiefs": 1.87
+     "Kansas City Chiefs": 1.89
     }
    },
    "hardrockbet": {
@@ -497,46 +91,46 @@
    },
    "pinnacle": {
     "h2h": {
-     "Denver Broncos": 1.98,
-     "Kansas City Chiefs": 1.93
+     "Denver Broncos": 1.95,
+     "Kansas City Chiefs": 1.95
     }
    },
    "bovada": {
     "h2h": {
-     "Denver Broncos": 1.95,
-     "Kansas City Chiefs": 1.87
+     "Denver Broncos": 1.93,
+     "Kansas City Chiefs": 1.89
     }
    }
   },
   "05405af79752f5e742cdf50b61f6745e": {
    "draftkings": {
     "h2h": {
-     "Miami Dolphins": 3.8,
-     "New England Patriots": 1.28
+     "Miami Dolphins": 3.75,
+     "New England Patriots": 1.29
     }
    },
    "fanduel": {
     "h2h": {
-     "Miami Dolphins": 4.1,
-     "New England Patriots": 1.26
+     "Miami Dolphins": 3.95,
+     "New England Patriots": 1.27
     }
    },
    "betrivers": {
     "h2h": {
-     "Miami Dolphins": 3.9,
-     "New England Patriots": 1.26
+     "Miami Dolphins": 3.75,
+     "New England Patriots": 1.27
     }
    },
    "betonlineag": {
     "h2h": {
-     "Miami Dolphins": 3.9,
+     "Miami Dolphins": 3.89,
      "New England Patriots": 1.28
     }
    },
    "betmgm": {
     "h2h": {
      "Miami Dolphins": 3.9,
-     "New England Patriots": 1.27
+     "New England Patriots": 1.29
     }
    },
    "hardrockbet": {
@@ -561,8 +155,8 @@
   "b9c60db63b1a19ad319f24b33c0defe8": {
    "draftkings": {
     "h2h": {
-     "Philadelphia Eagles": 3.25,
-     "Washington Commanders": 1.36
+     "Philadelphia Eagles": 3.2,
+     "Washington Commanders": 1.37
     }
    },
    "fanduel": {
@@ -579,35 +173,35 @@
    },
    "betonlineag": {
     "h2h": {
-     "Philadelphia Eagles": 3.22,
-     "Washington Commanders": 1.37
+     "Philadelphia Eagles": 3.07,
+     "Washington Commanders": 1.4
     }
    },
    "betmgm": {
     "h2h": {
-     "Philadelphia Eagles": 3.25,
+     "Philadelphia Eagles": 3.1,
      "Washington Commanders": 1.36
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Philadelphia Eagles": 3.2,
+     "Philadelphia Eagles": 3.25,
      "Washington Commanders": 1.36
     }
    },
    "pinnacle": {
     "h2h": {
-     "Philadelphia Eagles": 3.31,
-     "Washington Commanders": 1.38
+     "Philadelphia Eagles": 3.16,
+     "Washington Commanders": 1.4
     }
    },
    "bovada": {
     "h2h": {
-     "Philadelphia Eagles": 3.25,
-     "Washington Commanders": 1.36
+     "Philadelphia Eagles": 3.1,
+     "Washington Commanders": 1.4
     }
    }
   }
  },
- "snap_ts": "2026-11-01T14:51:05Z"
+ "snap_ts": "2026-11-01T19:24:22Z"
 }
