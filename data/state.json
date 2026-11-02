@@ -1,63 +1,63 @@
 {
  "calls": {
-  "2026-10-29": 14,
   "2026-10-31": 2,
-  "2026-11-01": 5
+  "2026-11-01": 5,
+  "2026-11-02": 1
  },
- "last_poll": "2026-11-01T22:57:55Z",
- "remaining": 495,
+ "last_poll": "2026-11-02T02:19:42Z",
+ "remaining": 494,
  "alerted": {},
  "snap": {
-  "b9c60db63b1a19ad319f24b33c0defe8": {
+  "7d664fbcd39350e559d83c0068ba7169": {
    "draftkings": {
     "h2h": {
-     "Philadelphia Eagles": 3.25,
-     "Washington Commanders": 1.36
+     "Chicago Bears": 2.42,
+     "Seattle Seahawks": 1.59
     }
    },
    "fanduel": {
     "h2h": {
-     "Philadelphia Eagles": 3.15,
-     "Washington Commanders": 1.38
+     "Chicago Bears": 2.46,
+     "Seattle Seahawks": 1.57
     }
    },
    "betrivers": {
     "h2h": {
-     "Philadelphia Eagles": 3.1,
-     "Washington Commanders": 1.38
+     "Chicago Bears": 2.4,
+     "Seattle Seahawks": 1.57
     }
    },
    "betonlineag": {
     "h2h": {
-     "Philadelphia Eagles": 3.07,
-     "Washington Commanders": 1.4
+     "Chicago Bears": 2.48,
+     "Seattle Seahawks": 1.6
     }
    },
    "betmgm": {
     "h2h": {
-     "Philadelphia Eagles": 3.1,
-     "Washington Commanders": 1.36
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Philadelphia Eagles": 3.25,
-     "Washington Commanders": 1.36
+     "Chicago Bears": 2.45,
+     "Seattle Seahawks": 1.57
     }
    },
    "pinnacle": {
     "h2h": {
-     "Philadelphia Eagles": 3.14,
-     "Washington Commanders": 1.41
+     "Chicago Bears": 2.45,
+     "Seattle Seahawks": 1.61
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Chicago Bears": 2.45,
+     "Seattle Seahawks": 1.59
     }
    },
    "bovada": {
     "h2h": {
-     "Philadelphia Eagles": 3.1,
-     "Washington Commanders": 1.4
+     "Chicago Bears": 2.4,
+     "Seattle Seahawks": 1.61
     }
    }
   }
  },
- "snap_ts": "2026-11-01T22:57:55Z"
+ "snap_ts": "2026-11-02T02:19:42Z"
 }
