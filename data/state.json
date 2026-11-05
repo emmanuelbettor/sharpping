@@ -1,17 +1,17 @@
 {
  "calls": {
   "2026-11-02": 3,
-  "2026-11-05": 2
+  "2026-11-05": 3
  },
- "last_poll": "2026-11-05T11:33:49Z",
- "remaining": 490,
+ "last_poll": "2026-11-05T18:59:59Z",
+ "remaining": 489,
  "alerted": {},
  "snap": {
   "c75744790b7acf6260c78ba5e739c0e5": {
    "draftkings": {
     "h2h": {
-     "Baltimore Ravens": 5.25,
-     "Jacksonville Jaguars": 1.17
+     "Baltimore Ravens": 4.8,
+     "Jacksonville Jaguars": 1.2
     }
    },
    "fanduel": {
@@ -40,14 +40,14 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Baltimore Ravens": 4.75,
-     "Jacksonville Jaguars": 1.19
+     "Baltimore Ravens": 5.0,
+     "Jacksonville Jaguars": 1.18
     }
    },
    "pinnacle": {
     "h2h": {
-     "Baltimore Ravens": 4.87,
-     "Jacksonville Jaguars": 1.2
+     "Baltimore Ravens": 4.95,
+     "Jacksonville Jaguars": 1.21
     }
    },
    "bovada": {
@@ -58,5 +58,5 @@
    }
   }
  },
- "snap_ts": "2026-11-05T11:33:49Z"
+ "snap_ts": "2026-11-05T18:59:59Z"
 }
