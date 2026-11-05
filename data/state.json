@@ -1,62 +1,62 @@
 {
  "calls": {
-  "2026-11-01": 5,
-  "2026-11-02": 3
+  "2026-11-02": 3,
+  "2026-11-05": 1
  },
- "last_poll": "2026-11-02T20:02:16Z",
- "remaining": 492,
+ "last_poll": "2026-11-05T03:38:29Z",
+ "remaining": 491,
  "alerted": {},
  "snap": {
-  "7d664fbcd39350e559d83c0068ba7169": {
+  "c75744790b7acf6260c78ba5e739c0e5": {
    "draftkings": {
     "h2h": {
-     "Chicago Bears": 2.45,
-     "Seattle Seahawks": 1.57
+     "Baltimore Ravens": 4.9,
+     "Jacksonville Jaguars": 1.19
     }
    },
    "fanduel": {
     "h2h": {
-     "Chicago Bears": 2.56,
-     "Seattle Seahawks": 1.54
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Chicago Bears": 2.45,
-     "Seattle Seahawks": 1.56
+     "Baltimore Ravens": 4.9,
+     "Jacksonville Jaguars": 1.2
     }
    },
    "betonlineag": {
     "h2h": {
-     "Chicago Bears": 2.57,
-     "Seattle Seahawks": 1.56
+     "Baltimore Ravens": 4.93,
+     "Jacksonville Jaguars": 1.19
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Baltimore Ravens": 4.75,
+     "Jacksonville Jaguars": 1.2
     }
    },
    "betmgm": {
     "h2h": {
-     "Chicago Bears": 2.55,
-     "Seattle Seahawks": 1.53
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Chicago Bears": 2.5,
-     "Seattle Seahawks": 1.58
+     "Baltimore Ravens": 5.25,
+     "Jacksonville Jaguars": 1.18
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Chicago Bears": 2.45,
-     "Seattle Seahawks": 1.57
+     "Baltimore Ravens": 4.75,
+     "Jacksonville Jaguars": 1.19
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Baltimore Ravens": 4.85,
+     "Jacksonville Jaguars": 1.2
     }
    },
    "bovada": {
     "h2h": {
-     "Chicago Bears": 2.5,
-     "Seattle Seahawks": 1.57
+     "Baltimore Ravens": 4.85,
+     "Jacksonville Jaguars": 1.2
     }
    }
   }
  },
- "snap_ts": "2026-11-02T20:02:16Z"
+ "snap_ts": "2026-11-05T03:38:29Z"
 }
