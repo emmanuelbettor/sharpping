@@ -1,29 +1,29 @@
 {
  "calls": {
-  "2026-11-02": 3,
-  "2026-11-05": 3
+  "2026-11-05": 3,
+  "2026-11-06": 1
  },
- "last_poll": "2026-11-05T18:59:59Z",
- "remaining": 489,
+ "last_poll": "2026-11-06T00:06:32Z",
+ "remaining": 488,
  "alerted": {},
  "snap": {
   "c75744790b7acf6260c78ba5e739c0e5": {
    "draftkings": {
     "h2h": {
-     "Baltimore Ravens": 4.8,
-     "Jacksonville Jaguars": 1.2
+     "Baltimore Ravens": 4.5,
+     "Jacksonville Jaguars": 1.22
     }
    },
    "fanduel": {
     "h2h": {
-     "Baltimore Ravens": 5.1,
-     "Jacksonville Jaguars": 1.18
+     "Baltimore Ravens": 4.6,
+     "Jacksonville Jaguars": 1.22
     }
    },
    "betonlineag": {
     "h2h": {
-     "Baltimore Ravens": 4.93,
-     "Jacksonville Jaguars": 1.19
+     "Baltimore Ravens": 4.54,
+     "Jacksonville Jaguars": 1.22
     }
    },
    "betrivers": {
@@ -34,29 +34,29 @@
    },
    "betmgm": {
     "h2h": {
-     "Baltimore Ravens": 5.25,
-     "Jacksonville Jaguars": 1.18
+     "Baltimore Ravens": 4.75,
+     "Jacksonville Jaguars": 1.21
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Baltimore Ravens": 5.0,
-     "Jacksonville Jaguars": 1.18
+     "Baltimore Ravens": 4.5,
+     "Jacksonville Jaguars": 1.2
     }
    },
    "pinnacle": {
     "h2h": {
-     "Baltimore Ravens": 4.95,
-     "Jacksonville Jaguars": 1.21
+     "Baltimore Ravens": 4.31,
+     "Jacksonville Jaguars": 1.25
     }
    },
    "bovada": {
     "h2h": {
-     "Baltimore Ravens": 4.85,
-     "Jacksonville Jaguars": 1.2
+     "Baltimore Ravens": 4.15,
+     "Jacksonville Jaguars": 1.24
     }
    }
   }
  },
- "snap_ts": "2026-11-05T18:59:59Z"
+ "snap_ts": "2026-11-06T00:06:32Z"
 }
