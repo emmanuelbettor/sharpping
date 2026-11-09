@@ -3,29 +3,29 @@
   "2026-11-06": 1,
   "2026-11-07": 2,
   "2026-11-08": 5,
-  "2026-11-09": 1
+  "2026-11-09": 2
  },
- "last_poll": "2026-11-09T02:40:25Z",
- "remaining": 480,
+ "last_poll": "2026-11-09T10:23:00Z",
+ "remaining": 479,
  "alerted": {},
  "snap": {
   "17ad7eff2f7875e20a8109abe40470e3": {
    "draftkings": {
     "h2h": {
-     "Buffalo Bills": 1.57,
-     "Minnesota Vikings": 2.45
+     "Buffalo Bills": 1.56,
+     "Minnesota Vikings": 2.5
     }
    },
    "fanduel": {
     "h2h": {
-     "Buffalo Bills": 1.57,
-     "Minnesota Vikings": 2.46
+     "Buffalo Bills": 1.58,
+     "Minnesota Vikings": 2.44
     }
    },
    "betonlineag": {
     "h2h": {
      "Buffalo Bills": 1.56,
-     "Minnesota Vikings": 2.55
+     "Minnesota Vikings": 2.56
     }
    },
    "betrivers": {
@@ -36,14 +36,14 @@
    },
    "hardrockbet": {
     "h2h": {
-     "Buffalo Bills": 1.56,
-     "Minnesota Vikings": 2.5
+     "Buffalo Bills": 1.54,
+     "Minnesota Vikings": 2.55
     }
    },
    "betmgm": {
     "h2h": {
-     "Buffalo Bills": 1.57,
-     "Minnesota Vikings": 2.45
+     "Buffalo Bills": 1.54,
+     "Minnesota Vikings": 2.5
     }
    },
    "pinnacle": {
@@ -60,5 +60,5 @@
    }
   }
  },
- "snap_ts": "2026-11-09T02:40:25Z"
+ "snap_ts": "2026-11-09T10:23:00Z"
 }
