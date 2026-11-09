@@ -1,64 +1,64 @@
 {
  "calls": {
-  "2026-11-05": 3,
   "2026-11-06": 1,
   "2026-11-07": 2,
-  "2026-11-08": 5
+  "2026-11-08": 5,
+  "2026-11-09": 1
  },
- "last_poll": "2026-11-08T23:01:28Z",
- "remaining": 481,
+ "last_poll": "2026-11-09T02:40:25Z",
+ "remaining": 480,
  "alerted": {},
  "snap": {
-  "9760d8f19f84bfee300a74ceb656c95d": {
+  "17ad7eff2f7875e20a8109abe40470e3": {
    "draftkings": {
     "h2h": {
-     "Chicago Bears": 1.37,
-     "Tampa Bay Buccaneers": 3.2
+     "Buffalo Bills": 1.57,
+     "Minnesota Vikings": 2.45
     }
    },
    "fanduel": {
     "h2h": {
-     "Chicago Bears": 1.38,
-     "Tampa Bay Buccaneers": 3.15
+     "Buffalo Bills": 1.57,
+     "Minnesota Vikings": 2.46
     }
    },
    "betonlineag": {
     "h2h": {
-     "Chicago Bears": 1.38,
-     "Tampa Bay Buccaneers": 3.15
+     "Buffalo Bills": 1.56,
+     "Minnesota Vikings": 2.55
     }
    },
    "betrivers": {
     "h2h": {
-     "Chicago Bears": 1.36,
-     "Tampa Bay Buccaneers": 3.2
-    }
-   },
-   "betmgm": {
-    "h2h": {
-     "Chicago Bears": 1.36,
-     "Tampa Bay Buccaneers": 3.25
+     "Buffalo Bills": 1.56,
+     "Minnesota Vikings": 2.45
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Chicago Bears": 1.38,
-     "Tampa Bay Buccaneers": 3.2
+     "Buffalo Bills": 1.56,
+     "Minnesota Vikings": 2.5
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Buffalo Bills": 1.57,
+     "Minnesota Vikings": 2.45
     }
    },
    "pinnacle": {
     "h2h": {
-     "Chicago Bears": 1.38,
-     "Tampa Bay Buccaneers": 3.32
+     "Buffalo Bills": 1.57,
+     "Minnesota Vikings": 2.51
     }
    },
    "bovada": {
     "h2h": {
-     "Chicago Bears": 1.35,
-     "Tampa Bay Buccaneers": 3.35
+     "Buffalo Bills": 1.57,
+     "Minnesota Vikings": 2.5
     }
    }
   }
  },
- "snap_ts": "2026-11-08T23:01:28Z"
+ "snap_ts": "2026-11-09T02:40:25Z"
 }
