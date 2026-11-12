@@ -1,62 +1,62 @@
 {
  "calls": {
-  "2026-11-08": 5,
-  "2026-11-09": 3
+  "2026-11-09": 3,
+  "2026-11-12": 1
  },
- "last_poll": "2026-11-09T20:58:01Z",
- "remaining": 478,
+ "last_poll": "2026-11-12T01:54:28Z",
+ "remaining": 477,
  "alerted": {},
  "snap": {
-  "17ad7eff2f7875e20a8109abe40470e3": {
+  "74d39e19225caf211ad2c8eb4110179f": {
    "draftkings": {
     "h2h": {
-     "Buffalo Bills": 1.51,
-     "Minnesota Vikings": 2.64
+     "New York Giants": 1.7,
+     "Washington Commanders": 2.2
     }
    },
    "fanduel": {
     "h2h": {
-     "Buffalo Bills": 1.53,
-     "Minnesota Vikings": 2.58
+     "New York Giants": 1.75,
+     "Washington Commanders": 2.14
     }
    },
    "betonlineag": {
     "h2h": {
-     "Buffalo Bills": 1.52,
-     "Minnesota Vikings": 2.69
+     "New York Giants": 1.74,
+     "Washington Commanders": 2.15
     }
    },
    "betrivers": {
     "h2h": {
-     "Buffalo Bills": 1.54,
-     "Minnesota Vikings": 2.5
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Buffalo Bills": 1.51,
-     "Minnesota Vikings": 2.6
+     "New York Giants": 1.75,
+     "Washington Commanders": 2.08
     }
    },
    "betmgm": {
     "h2h": {
-     "Buffalo Bills": 1.5,
-     "Minnesota Vikings": 2.65
+     "New York Giants": 1.71,
+     "Washington Commanders": 2.15
     }
    },
-   "pinnacle": {
+   "hardrockbet": {
     "h2h": {
-     "Buffalo Bills": 1.53,
-     "Minnesota Vikings": 2.67
+     "New York Giants": 1.74,
+     "Washington Commanders": 2.15
     }
    },
    "bovada": {
     "h2h": {
-     "Buffalo Bills": 1.51,
-     "Minnesota Vikings": 2.67
+     "New York Giants": 1.74,
+     "Washington Commanders": 2.15
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "New York Giants": 1.74,
+     "Washington Commanders": 2.21
     }
    }
   }
  },
- "snap_ts": "2026-11-09T20:58:01Z"
+ "snap_ts": "2026-11-12T01:54:28Z"
 }
