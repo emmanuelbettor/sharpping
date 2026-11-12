@@ -1,10 +1,10 @@
 {
  "calls": {
   "2026-11-09": 3,
-  "2026-11-12": 1
+  "2026-11-12": 2
  },
- "last_poll": "2026-11-12T01:54:28Z",
- "remaining": 477,
+ "last_poll": "2026-11-12T09:27:20Z",
+ "remaining": 476,
  "alerted": {},
  "snap": {
   "74d39e19225caf211ad2c8eb4110179f": {
@@ -34,7 +34,7 @@
    },
    "betmgm": {
     "h2h": {
-     "New York Giants": 1.71,
+     "New York Giants": 1.74,
      "Washington Commanders": 2.15
     }
    },
@@ -46,17 +46,17 @@
    },
    "bovada": {
     "h2h": {
-     "New York Giants": 1.74,
-     "Washington Commanders": 2.15
+     "New York Giants": 1.77,
+     "Washington Commanders": 2.1
     }
    },
    "pinnacle": {
     "h2h": {
-     "New York Giants": 1.74,
-     "Washington Commanders": 2.21
+     "New York Giants": 1.79,
+     "Washington Commanders": 2.13
     }
    }
   }
  },
- "snap_ts": "2026-11-12T01:54:28Z"
+ "snap_ts": "2026-11-12T09:27:20Z"
 }
