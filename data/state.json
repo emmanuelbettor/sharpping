@@ -1,41 +1,41 @@
 {
  "calls": {
   "2026-11-09": 3,
-  "2026-11-12": 3
+  "2026-11-12": 4
  },
- "last_poll": "2026-11-12T17:42:27Z",
- "remaining": 475,
+ "last_poll": "2026-11-12T22:52:50Z",
+ "remaining": 474,
  "alerted": {},
  "snap": {
   "74d39e19225caf211ad2c8eb4110179f": {
    "draftkings": {
     "h2h": {
-     "New York Giants": 1.74,
-     "Washington Commanders": 2.14
+     "New York Giants": 1.8,
+     "Washington Commanders": 2.05
     }
    },
    "fanduel": {
     "h2h": {
-     "New York Giants": 1.76,
-     "Washington Commanders": 2.12
+     "New York Giants": 1.82,
+     "Washington Commanders": 2.04
     }
    },
    "betonlineag": {
     "h2h": {
-     "New York Giants": 1.76,
-     "Washington Commanders": 2.12
+     "New York Giants": 1.81,
+     "Washington Commanders": 2.04
     }
    },
    "betrivers": {
     "h2h": {
-     "New York Giants": 1.73,
-     "Washington Commanders": 2.14
+     "New York Giants": 1.76,
+     "Washington Commanders": 2.07
     }
    },
    "betmgm": {
     "h2h": {
-     "New York Giants": 1.74,
-     "Washington Commanders": 2.15
+     "New York Giants": 1.8,
+     "Washington Commanders": 2.05
     }
    },
    "hardrockbet": {
@@ -46,17 +46,17 @@
    },
    "bovada": {
     "h2h": {
-     "New York Giants": 1.76,
-     "Washington Commanders": 2.12
+     "New York Giants": 1.77,
+     "Washington Commanders": 2.1
     }
    },
    "pinnacle": {
     "h2h": {
-     "New York Giants": 1.79,
-     "Washington Commanders": 2.14
+     "New York Giants": 1.81,
+     "Washington Commanders": 2.12
     }
    }
   }
  },
- "snap_ts": "2026-11-12T17:42:27Z"
+ "snap_ts": "2026-11-12T22:52:50Z"
 }
