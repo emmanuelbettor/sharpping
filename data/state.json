@@ -1,113 +1,63 @@
 {
  "calls": {
-  "2026-11-12": 4,
   "2026-11-14": 2,
-  "2026-11-15": 4
+  "2026-11-15": 4,
+  "2026-11-16": 1
  },
- "last_poll": "2026-11-15T21:19:19Z",
- "remaining": 468,
+ "last_poll": "2026-11-16T01:18:10Z",
+ "remaining": 467,
  "alerted": {},
  "snap": {
-  "7627192fd89b05120ab6c712aa23fd81": {
+  "35e3bdff558b5d1506251e814986f164": {
    "draftkings": {
     "h2h": {
-     "Dallas Cowboys": 2.7,
-     "San Francisco 49ers": 1.49
+     "Baltimore Ravens": 1.44,
+     "Los Angeles Chargers": 2.85
     }
    },
    "fanduel": {
     "h2h": {
-     "Dallas Cowboys": 2.66,
-     "San Francisco 49ers": 1.51
+     "Baltimore Ravens": 1.43,
+     "Los Angeles Chargers": 2.9
     }
    },
    "betonlineag": {
     "h2h": {
-     "Dallas Cowboys": 2.53,
-     "San Francisco 49ers": 1.57
+     "Baltimore Ravens": 1.45,
+     "Los Angeles Chargers": 2.86
     }
    },
    "betrivers": {
     "h2h": {
-     "Dallas Cowboys": 2.65,
-     "San Francisco 49ers": 1.49
+     "Baltimore Ravens": 1.43,
+     "Los Angeles Chargers": 2.8
     }
    },
    "betmgm": {
     "h2h": {
-     "Dallas Cowboys": 2.65,
-     "San Francisco 49ers": 1.5
+     "Baltimore Ravens": 1.44,
+     "Los Angeles Chargers": 2.85
     }
    },
    "bovada": {
     "h2h": {
-     "Dallas Cowboys": 2.6,
-     "San Francisco 49ers": 1.54
+     "Baltimore Ravens": 1.44,
+     "Los Angeles Chargers": 2.85
     }
    },
    "pinnacle": {
     "h2h": {
-     "Dallas Cowboys": 2.62,
-     "San Francisco 49ers": 1.55
+     "Baltimore Ravens": 1.46,
+     "Los Angeles Chargers": 2.87
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Dallas Cowboys": 2.7,
-     "San Francisco 49ers": 1.5
-    }
-   }
-  },
-  "48e497c230e6c9afcb3b600091d28e17": {
-   "draftkings": {
-    "h2h": {
-     "Cincinnati Bengals": 1.52,
-     "Pittsburgh Steelers": 2.6
-    }
-   },
-   "fanduel": {
-    "h2h": {
-     "Cincinnati Bengals": 1.53,
-     "Pittsburgh Steelers": 2.6
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Cincinnati Bengals": 1.53,
-     "Pittsburgh Steelers": 2.65
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Cincinnati Bengals": 1.51,
-     "Pittsburgh Steelers": 2.55
-    }
-   },
-   "betmgm": {
-    "h2h": {
-     "Cincinnati Bengals": 1.5,
-     "Pittsburgh Steelers": 2.65
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Cincinnati Bengals": 1.51,
-     "Pittsburgh Steelers": 2.67
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Cincinnati Bengals": 1.52,
-     "Pittsburgh Steelers": 2.71
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Cincinnati Bengals": 1.5,
-     "Pittsburgh Steelers": 2.65
+     "Baltimore Ravens": 1.44,
+     "Los Angeles Chargers": 2.85
     }
    }
   }
  },
- "snap_ts": "2026-11-15T21:19:19Z"
+ "snap_ts": "2026-11-16T01:18:10Z"
 }
