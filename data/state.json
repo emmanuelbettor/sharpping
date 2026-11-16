@@ -2,35 +2,35 @@
  "calls": {
   "2026-11-14": 2,
   "2026-11-15": 4,
-  "2026-11-16": 2
+  "2026-11-16": 3
  },
- "last_poll": "2026-11-16T08:23:34Z",
- "remaining": 466,
+ "last_poll": "2026-11-16T18:48:09Z",
+ "remaining": 465,
  "alerted": {},
  "snap": {
   "35e3bdff558b5d1506251e814986f164": {
    "draftkings": {
     "h2h": {
-     "Baltimore Ravens": 1.44,
-     "Los Angeles Chargers": 2.85
-    }
-   },
-   "fanduel": {
-    "h2h": {
      "Baltimore Ravens": 1.43,
      "Los Angeles Chargers": 2.9
     }
    },
+   "fanduel": {
+    "h2h": {
+     "Baltimore Ravens": 1.44,
+     "Los Angeles Chargers": 2.88
+    }
+   },
    "betonlineag": {
     "h2h": {
-     "Baltimore Ravens": 1.46,
-     "Los Angeles Chargers": 2.85
+     "Baltimore Ravens": 1.45,
+     "Los Angeles Chargers": 2.86
     }
    },
    "betrivers": {
     "h2h": {
-     "Baltimore Ravens": 1.43,
-     "Los Angeles Chargers": 2.8
+     "Baltimore Ravens": 1.41,
+     "Los Angeles Chargers": 2.95
     }
    },
    "betmgm": {
@@ -48,16 +48,16 @@
    "pinnacle": {
     "h2h": {
      "Baltimore Ravens": 1.46,
-     "Los Angeles Chargers": 2.88
+     "Los Angeles Chargers": 2.93
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Baltimore Ravens": 1.44,
-     "Los Angeles Chargers": 2.85
+     "Baltimore Ravens": 1.43,
+     "Los Angeles Chargers": 2.9
     }
    }
   }
  },
- "snap_ts": "2026-11-16T08:23:34Z"
+ "snap_ts": "2026-11-16T18:48:09Z"
 }
