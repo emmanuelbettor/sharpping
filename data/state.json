@@ -1,23 +1,23 @@
 {
  "calls": {
   "2026-11-16": 3,
-  "2026-11-19": 1
+  "2026-11-19": 2
  },
- "last_poll": "2026-11-19T08:48:47Z",
- "remaining": 464,
+ "last_poll": "2026-11-19T18:01:47Z",
+ "remaining": 463,
  "alerted": {},
  "snap": {
   "66f9e83cf025d58acee12bce18661fb3": {
    "draftkings": {
     "h2h": {
-     "Houston Texans": 1.13,
-     "Indianapolis Colts": 6.25
+     "Houston Texans": 1.14,
+     "Indianapolis Colts": 6.0
     }
    },
    "fanduel": {
     "h2h": {
-     "Houston Texans": 1.12,
-     "Indianapolis Colts": 6.7
+     "Houston Texans": 1.14,
+     "Indianapolis Colts": 6.2
     }
    },
    "betonlineag": {
@@ -35,12 +35,12 @@
    "pinnacle": {
     "h2h": {
      "Houston Texans": 1.14,
-     "Indianapolis Colts": 6.24
+     "Indianapolis Colts": 6.4
     }
    },
    "betmgm": {
     "h2h": {
-     "Houston Texans": 1.13,
+     "Houston Texans": 1.14,
      "Indianapolis Colts": 6.5
     }
    },
@@ -53,10 +53,10 @@
    "hardrockbet": {
     "h2h": {
      "Houston Texans": 1.12,
-     "Indianapolis Colts": 6.5
+     "Indianapolis Colts": 6.25
     }
    }
   }
  },
- "snap_ts": "2026-11-19T08:48:47Z"
+ "snap_ts": "2026-11-19T18:01:47Z"
 }
