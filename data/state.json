@@ -1,61 +1,62 @@
 {
  "calls": {
-  "2026-11-16": 3
+  "2026-11-16": 3,
+  "2026-11-19": 1
  },
- "last_poll": "2026-11-16T18:48:09Z",
- "remaining": 465,
+ "last_poll": "2026-11-19T08:48:47Z",
+ "remaining": 464,
  "alerted": {},
  "snap": {
-  "35e3bdff558b5d1506251e814986f164": {
+  "66f9e83cf025d58acee12bce18661fb3": {
    "draftkings": {
     "h2h": {
-     "Baltimore Ravens": 1.43,
-     "Los Angeles Chargers": 2.9
+     "Houston Texans": 1.13,
+     "Indianapolis Colts": 6.25
     }
    },
    "fanduel": {
     "h2h": {
-     "Baltimore Ravens": 1.44,
-     "Los Angeles Chargers": 2.88
+     "Houston Texans": 1.12,
+     "Indianapolis Colts": 6.7
     }
    },
    "betonlineag": {
     "h2h": {
-     "Baltimore Ravens": 1.45,
-     "Los Angeles Chargers": 2.86
+     "Houston Texans": 1.14,
+     "Indianapolis Colts": 6.26
     }
    },
    "betrivers": {
     "h2h": {
-     "Baltimore Ravens": 1.41,
-     "Los Angeles Chargers": 2.95
-    }
-   },
-   "betmgm": {
-    "h2h": {
-     "Baltimore Ravens": 1.44,
-     "Los Angeles Chargers": 2.85
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Baltimore Ravens": 1.44,
-     "Los Angeles Chargers": 2.85
+     "Houston Texans": 1.13,
+     "Indianapolis Colts": 6.1
     }
    },
    "pinnacle": {
     "h2h": {
-     "Baltimore Ravens": 1.46,
-     "Los Angeles Chargers": 2.93
+     "Houston Texans": 1.14,
+     "Indianapolis Colts": 6.24
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Houston Texans": 1.13,
+     "Indianapolis Colts": 6.5
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Houston Texans": 1.14,
+     "Indianapolis Colts": 6.0
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Baltimore Ravens": 1.43,
-     "Los Angeles Chargers": 2.9
+     "Houston Texans": 1.12,
+     "Indianapolis Colts": 6.5
     }
    }
   }
  },
- "snap_ts": "2026-11-16T18:48:09Z"
+ "snap_ts": "2026-11-19T08:48:47Z"
 }
