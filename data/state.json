@@ -3,23 +3,23 @@
   "2026-11-20": 1,
   "2026-11-21": 2,
   "2026-11-22": 3,
-  "2026-11-23": 1
+  "2026-11-23": 2
  },
- "last_poll": "2026-11-23T01:27:13Z",
- "remaining": 456,
+ "last_poll": "2026-11-23T09:40:18Z",
+ "remaining": 455,
  "alerted": {},
  "snap": {
   "3a60ed1d20004aa4d4772b2c1a2272e7": {
    "draftkings": {
     "h2h": {
      "Cincinnati Bengals": 1.34,
-     "Washington Commanders": 3.41
+     "Washington Commanders": 3.42
     }
    },
    "fanduel": {
     "h2h": {
      "Cincinnati Bengals": 1.34,
-     "Washington Commanders": 3.35
+     "Washington Commanders": 3.4
     }
    },
    "betonlineag": {
@@ -31,7 +31,7 @@
    "betrivers": {
     "h2h": {
      "Cincinnati Bengals": 1.34,
-     "Washington Commanders": 3.3
+     "Washington Commanders": 3.35
     }
    },
    "betmgm": {
@@ -48,17 +48,17 @@
    },
    "pinnacle": {
     "h2h": {
-     "Cincinnati Bengals": 1.35,
-     "Washington Commanders": 3.39
+     "Cincinnati Bengals": 1.33,
+     "Washington Commanders": 3.6
     }
    },
    "bovada": {
     "h2h": {
-     "Cincinnati Bengals": 1.35,
-     "Washington Commanders": 3.35
+     "Cincinnati Bengals": 1.32,
+     "Washington Commanders": 3.55
     }
    }
   }
  },
- "snap_ts": "2026-11-23T01:27:13Z"
+ "snap_ts": "2026-11-23T09:40:18Z"
 }
