@@ -2,41 +2,41 @@
  "calls": {
   "2026-11-22": 3,
   "2026-11-23": 3,
-  "2026-11-25": 1
+  "2026-11-25": 2
  },
- "last_poll": "2026-11-25T09:52:09Z",
- "remaining": 452,
+ "last_poll": "2026-11-25T19:48:50Z",
+ "remaining": 451,
  "alerted": {},
  "snap": {
   "5b612899d6dcdf998107f2c6c6e49a58": {
    "draftkings": {
     "h2h": {
-     "Green Bay Packers": 2.16,
-     "Los Angeles Rams": 1.73
+     "Green Bay Packers": 2.2,
+     "Los Angeles Rams": 1.71
     }
    },
    "fanduel": {
     "h2h": {
-     "Green Bay Packers": 2.2,
-     "Los Angeles Rams": 1.7
+     "Green Bay Packers": 2.22,
+     "Los Angeles Rams": 1.69
     }
    },
    "betmgm": {
+    "h2h": {
+     "Green Bay Packers": 2.2,
+     "Los Angeles Rams": 1.69
+    }
+   },
+   "betrivers": {
     "h2h": {
      "Green Bay Packers": 2.15,
      "Los Angeles Rams": 1.71
     }
    },
-   "betrivers": {
-    "h2h": {
-     "Green Bay Packers": 2.12,
-     "Los Angeles Rams": 1.74
-    }
-   },
    "betonlineag": {
     "h2h": {
-     "Green Bay Packers": 2.17,
-     "Los Angeles Rams": 1.73
+     "Green Bay Packers": 2.2,
+     "Los Angeles Rams": 1.71
     }
    },
    "hardrockbet": {
@@ -47,11 +47,67 @@
    },
    "pinnacle": {
     "h2h": {
-     "Green Bay Packers": 2.18,
-     "Los Angeles Rams": 1.75
+     "Green Bay Packers": 2.26,
+     "Los Angeles Rams": 1.71
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Green Bay Packers": 2.17,
+     "Los Angeles Rams": 1.73
+    }
+   }
+  },
+  "9b825e6518156008da499be041975fdd": {
+   "draftkings": {
+    "h2h": {
+     "Chicago Bears": 1.82,
+     "Detroit Lions": 2.03
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Chicago Bears": 1.82,
+     "Detroit Lions": 2.04
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Chicago Bears": 1.83,
+     "Detroit Lions": 2.0
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Chicago Bears": 1.79,
+     "Detroit Lions": 2.05
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Chicago Bears": 1.85,
+     "Detroit Lions": 1.97
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Chicago Bears": 1.83,
+     "Detroit Lions": 2.0
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Chicago Bears": 1.86,
+     "Detroit Lions": 2.03
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Chicago Bears": 1.83,
+     "Detroit Lions": 2.0
     }
    }
   }
  },
- "snap_ts": "2026-11-25T09:52:09Z"
+ "snap_ts": "2026-11-25T19:48:50Z"
 }
