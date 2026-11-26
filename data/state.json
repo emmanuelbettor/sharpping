@@ -1,68 +1,18 @@
 {
  "calls": {
-  "2026-11-22": 3,
   "2026-11-23": 3,
-  "2026-11-25": 2
+  "2026-11-25": 2,
+  "2026-11-26": 1
  },
- "last_poll": "2026-11-25T19:48:50Z",
- "remaining": 451,
+ "last_poll": "2026-11-26T02:41:55Z",
+ "remaining": 450,
  "alerted": {},
  "snap": {
-  "5b612899d6dcdf998107f2c6c6e49a58": {
-   "draftkings": {
-    "h2h": {
-     "Green Bay Packers": 2.2,
-     "Los Angeles Rams": 1.71
-    }
-   },
-   "fanduel": {
-    "h2h": {
-     "Green Bay Packers": 2.22,
-     "Los Angeles Rams": 1.69
-    }
-   },
-   "betmgm": {
-    "h2h": {
-     "Green Bay Packers": 2.2,
-     "Los Angeles Rams": 1.69
-    }
-   },
-   "betrivers": {
-    "h2h": {
-     "Green Bay Packers": 2.15,
-     "Los Angeles Rams": 1.71
-    }
-   },
-   "betonlineag": {
-    "h2h": {
-     "Green Bay Packers": 2.2,
-     "Los Angeles Rams": 1.71
-    }
-   },
-   "hardrockbet": {
-    "h2h": {
-     "Green Bay Packers": 2.2,
-     "Los Angeles Rams": 1.71
-    }
-   },
-   "pinnacle": {
-    "h2h": {
-     "Green Bay Packers": 2.26,
-     "Los Angeles Rams": 1.71
-    }
-   },
-   "bovada": {
-    "h2h": {
-     "Green Bay Packers": 2.17,
-     "Los Angeles Rams": 1.73
-    }
-   }
-  },
   "9b825e6518156008da499be041975fdd": {
    "draftkings": {
     "h2h": {
-     "Chicago Bears": 1.82,
-     "Detroit Lions": 2.03
+     "Chicago Bears": 1.83,
+     "Detroit Lions": 2.02
     }
    },
    "fanduel": {
@@ -85,8 +35,8 @@
    },
    "betonlineag": {
     "h2h": {
-     "Chicago Bears": 1.85,
-     "Detroit Lions": 1.97
+     "Chicago Bears": 1.83,
+     "Detroit Lions": 2.0
     }
    },
    "hardrockbet": {
@@ -97,17 +47,117 @@
    },
    "pinnacle": {
     "h2h": {
-     "Chicago Bears": 1.86,
-     "Detroit Lions": 2.03
+     "Chicago Bears": 1.85,
+     "Detroit Lions": 2.05
     }
    },
    "bovada": {
     "h2h": {
-     "Chicago Bears": 1.83,
-     "Detroit Lions": 2.0
+     "Chicago Bears": 1.82,
+     "Detroit Lions": 2.02
+    }
+   }
+  },
+  "ffaa06af56a7137d4b078c5c46c0b730": {
+   "draftkings": {
+    "h2h": {
+     "Dallas Cowboys": 1.21,
+     "Philadelphia Eagles": 4.7
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Dallas Cowboys": 1.21,
+     "Philadelphia Eagles": 4.7
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Dallas Cowboys": 1.21,
+     "Philadelphia Eagles": 4.67
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Dallas Cowboys": 1.21,
+     "Philadelphia Eagles": 4.75
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Dallas Cowboys": 1.22,
+     "Philadelphia Eagles": 4.35
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Dallas Cowboys": 1.2,
+     "Philadelphia Eagles": 4.75
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Dallas Cowboys": 1.23,
+     "Philadelphia Eagles": 4.42
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Dallas Cowboys": 1.23,
+     "Philadelphia Eagles": 4.4
+    }
+   }
+  },
+  "f36f518585aec40e8cb40e071c0844aa": {
+   "draftkings": {
+    "h2h": {
+     "Buffalo Bills": 1.68,
+     "Kansas City Chiefs": 2.25
+    }
+   },
+   "fanduel": {
+    "h2h": {
+     "Buffalo Bills": 1.66,
+     "Kansas City Chiefs": 2.28
+    }
+   },
+   "betmgm": {
+    "h2h": {
+     "Buffalo Bills": 1.67,
+     "Kansas City Chiefs": 2.25
+    }
+   },
+   "betrivers": {
+    "h2h": {
+     "Buffalo Bills": 1.67,
+     "Kansas City Chiefs": 2.23
+    }
+   },
+   "betonlineag": {
+    "h2h": {
+     "Buffalo Bills": 1.65,
+     "Kansas City Chiefs": 2.34
+    }
+   },
+   "hardrockbet": {
+    "h2h": {
+     "Buffalo Bills": 1.67,
+     "Kansas City Chiefs": 2.3
+    }
+   },
+   "pinnacle": {
+    "h2h": {
+     "Buffalo Bills": 1.68,
+     "Kansas City Chiefs": 2.3
+    }
+   },
+   "bovada": {
+    "h2h": {
+     "Buffalo Bills": 1.67,
+     "Kansas City Chiefs": 2.3
     }
    }
   }
  },
- "snap_ts": "2026-11-25T19:48:50Z"
+ "snap_ts": "2026-11-26T02:41:55Z"
 }
