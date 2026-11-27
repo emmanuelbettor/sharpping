@@ -2,29 +2,29 @@
  "calls": {
   "2026-11-25": 2,
   "2026-11-26": 3,
-  "2026-11-27": 1
+  "2026-11-27": 2
  },
- "last_poll": "2026-11-27T03:17:07Z",
- "remaining": 447,
+ "last_poll": "2026-11-27T12:58:15Z",
+ "remaining": 446,
  "alerted": {},
  "snap": {
   "44a3bcf5bd002583ddef2207a92dd977": {
    "draftkings": {
     "h2h": {
-     "Denver Broncos": 1.4,
-     "Pittsburgh Steelers": 3.06
+     "Denver Broncos": 1.41,
+     "Pittsburgh Steelers": 3.02
     }
    },
    "fanduel": {
     "h2h": {
      "Denver Broncos": 1.43,
-     "Pittsburgh Steelers": 2.94
+     "Pittsburgh Steelers": 2.9
     }
    },
    "betmgm": {
     "h2h": {
      "Denver Broncos": 1.43,
-     "Pittsburgh Steelers": 2.95
+     "Pittsburgh Steelers": 2.9
     }
    },
    "betrivers": {
@@ -35,29 +35,29 @@
    },
    "betonlineag": {
     "h2h": {
-     "Denver Broncos": 1.41,
-     "Pittsburgh Steelers": 3.03
+     "Denver Broncos": 1.42,
+     "Pittsburgh Steelers": 2.97
     }
    },
    "hardrockbet": {
     "h2h": {
-     "Denver Broncos": 1.4,
-     "Pittsburgh Steelers": 3.0
+     "Denver Broncos": 1.42,
+     "Pittsburgh Steelers": 2.95
     }
    },
    "pinnacle": {
     "h2h": {
-     "Denver Broncos": 1.44,
+     "Denver Broncos": 1.45,
      "Pittsburgh Steelers": 2.93
     }
    },
    "bovada": {
     "h2h": {
      "Denver Broncos": 1.43,
-     "Pittsburgh Steelers": 2.95
+     "Pittsburgh Steelers": 2.9
     }
    }
   }
  },
- "snap_ts": "2026-11-27T03:17:07Z"
+ "snap_ts": "2026-11-27T12:58:15Z"
 }
